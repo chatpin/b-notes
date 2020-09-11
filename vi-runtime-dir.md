@@ -1,0 +1,3 @@
+vi-runtime-dir
+runtime directory?
+Assuming that you're using some flavor of Unix, your personal runtime directory is ~/.vim. This is where you should put any plugin used only by you. If you want other users to be able to access the plugin, put it in the second directory of the 'runtimepath' option, which is usually $VIM/vimfiles. You should not install any plugins into the $VIMRUNTIME directory. That directory is intended for plugins distributed with Vim. If you put other plugins in that directory, or modify files in that directory, you will likely lose those changes when you update your Vim installation. 
