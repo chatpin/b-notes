@@ -14,4 +14,4 @@ Ted Nelson appeared in a [Werner Herzog] documentry called [Lo and Behold: Rever
 
 > Hypertext can be used to support very complex and dynamic systems of linking and cross-referencing. The most famous implementation of hypertext is the World Wide Web, written in the final months of 1990 and released on the Internet in 1991. 
 
-[home](/home/pi/Documents/notes-index.md)
+[home](/home/pi/Documents/notesystem/notes-index.md)

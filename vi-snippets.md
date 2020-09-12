@@ -1,24 +1,24 @@
 
-vi-snippets
+#vi/snippets
 
-scripts, text, to be invoked and dragged into your note through a shortcut:
+scripts/text invoked & dragged into your document through a shortcut
+____
 
-script begins with 
-			[define a new key mapping for normal mode]
-			nnoremap 
+resources
 
-script continues with
-			[this would be your shortcut/cmd]
-			for eg. ,html or \html
+###local/
 
-next
-			[.-1 is the current line number minus 1]
-			:-1read 
+* [intro.md](/home/pi/.vim/intro.md) -- (local link) skeleton (or template) of a note 
 
-			[path to snippet - just a .txt file]
-			$HOME/.vim/skeleton.html
+* [skeleton](/home/pi/Documents/notesystem/skeleton.md) -- sample
 
+###web/
+  * [Michael Crosby](https://m.youtube.com/watch?v=VC_GFIMxDC0) -- thanks to Michael Crosby for the insight
+_____
+**notes**/
 
+    nnoremap ,mm :.-1read $HOME/.vim/intro.md<CR>"=strftime("%c")<CR>pjA
 
+> **nnoremap** (define a new key mapping for normal mode) and continue with your shortcut/cmd, in this instance **,mm** **:-1read** is the insert line number. Then the path to snippet (which is just a .txt file) **$HOME/.vim/intro.md** the **< CR >** indicates a [carriage](https://en.wikipedia.org/wiki/Carriage_return) return. **"=strftime("%c")< CR >** inserts the date/time. The **pjA** tells the cursor appear at the appropriate position to begin editing the new document/note.
 
-https://m.youtube.com/watch?v=VC_GFIMxDC0
+[home](/home/pi/Documents/notesystem/vim-index.md)

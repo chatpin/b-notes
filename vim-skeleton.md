@@ -29,5 +29,5 @@ working with templates (skeletons) in vim
 
 
 
-[home](/home/pi/Documents/ -index.md) 
+[home](/home/pi/Documents/notesystem/vim-index.md) 
 

@@ -2,22 +2,22 @@
 
 ___
 
-  * [learn vimscript](/home/pi/Documents/vi-learn.md)
-  * [vim autocomplete](/home/pi/Documents/vi-autocomplete.md)
-  * [vim buffers](/home/pi/Documents/vi-buffers.md)
-  * [vim commandline](/home/pi/Documents/vi-cmd-line.md)
-  * [vim commands](/home/pi/Documents/vi-cmds.md)
-  * [vim search](/home/pi/Documents/vi-find.md)
-  * [vim help](/home/pi/Documents/vi-help.md)
-  * [vim notes](/home/pi/Documents/vimnotes.md)
-  * [vim netrw](/home/pi/Documents/vi-netrw.md)
-  * [vim runtime](/home/pi/Documents/vi-runtime-dir.md)
-  * [vim skeletons](/home/pi/Documents/vim-skeleton.md)
-  * [vim snippets](/home/pi/Documents/vi-snippets.md)
-  * [vim the vimrc](/home/pi/Documents/vi-vimrc.md)
+  * [learn vimscript](/home/pi/Documents/notesystem/vi-learn.md)
+  * [vim autocomplete](/home/pi/Documents/notesystem/vi-autocomplete.md)
+  * [vim buffers](/home/pi/Documents/notesystem/vi-buffers.md)
+  * [vim commandline](/home/pi/Documents/notesystem/vi-cmd-line.md)
+  * [vim commands](/home/pi/Documents/notesystem/vi-cmds.md)
+  * [vim search](/home/pi/Documents/notesystem/vi-find.md)
+  * [vim help](/home/pi/Documents/notesystem/vi-help.md)
+  * [vim notes](/home/pi/Documents/notesystem/vimnotes.md)
+  * [vim netrw](/home/pi/Documents/notesystem/vi-netrw.md)
+  * [vim runtime](/home/pi/Documents/notesystem/vi-runtime-dir.md)
+  * [vim skeletons](/home/pi/Documents/notesystem/vim-skeleton.md)
+  * [vim snippets](/home/pi/Documents/notesystem/vi-snippets.md)
+  * [vim the vimrc](/home/pi/Documents/notesystem/vi-vimrc.md)
 
 
 
 ____
 
-[home](/home/pi/Documents/home.md) 
+[home](/home/pi/Documents/notesystem/home.md) 

@@ -18,21 +18,21 @@ ___
 
 **notes**/
 
-  * **cc** -- alias cc='calendar -A 14'
-  * **doc** -- alias doc='cd ~/Documents/'
-  * **env** --  alias env='cd ~/environments/' 
-  * **act** -- alias act='source my_env/bin/activate'
-  * **pi** -- alias pi='cd ~/'
-  * **ww** -- alias ww='w3m www.duckduckgo.com'
-  * **sync** -- alias sync='rsync -arv /home/pi/Documents/ /media/pi/8342-B101/Documents/'
-  * **myip** -- alias myip='curl http://ipecho.net/plain; echo'
-  * **ssp** -- alias ssp='ssh pi@192.168.1.4'
-  * **ssu** -- alias ssu='ssh user@192.168.1.23'
-  * **con** -- alias con='cat ~/environments/contacts.csv | column -t -s, | less -S'
-  * **suma** -- alias suma='cat ~/environments/sumafavs.csv | column -t -s, | less -S'
-  * **re** -- alias re='nohup retext &'
+  * **cc**='calendar -A 14' -- *cal overview for next 14 days*
+  * **doc**='cd ~/Documents/'
+  * **env**='cd ~/environments/' 
+  * **act**='source my_env/bin/activate'-- *activates python env*
+  * **pi**='cd ~/'
+  * **ww**='w3m www.duckduckgo.com'
+  * **sync**='rsync -arv /home/pi/Documents/ /media/pi/8342-B101/Documents/'
+  * **myip**='curl http://ipecho.net/plain; echo'
+  * **ssp**='ssh ****@192.168.1.4'
+  * **ssu**='ssh ****@192.168.1.23'
+  * **con**='cat ~/environments/contacts.csv | column -t -s, | less -S'
+  * **suma**='cat ~/environments/sumafavs.csv | column -t -s, | less -S'
+  * **re**='nohup retext &' -- *starts an instance of ReText*
 
 
 
-[home](/home/pi/Documents/bash-index.md) 
+[home](/home/pi/Documents/notesystem/bash-index.md) 
 
