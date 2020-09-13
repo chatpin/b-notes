@@ -1,4 +1,4 @@
-# notesystem
+# synote
 ___
 
 >**'notesystem'** introduces some useful commands, scripts and links, all in simple markdown documents, covering subjects such as: bash, python and vim. This is a living document at this point and should not be considered anything other than a very basic initial draft.
