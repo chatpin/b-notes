@@ -22,6 +22,10 @@ ___
 
 **notes**/
 
+  * git status
+  * git add -u
+  * git commit -m "add message/note here"
+  * git push
 
 
 
