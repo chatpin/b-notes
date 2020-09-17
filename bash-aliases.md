@@ -5,34 +5,42 @@ Sun 30 Aug 2020 12:02:18 BST
 _____
 
 
-resources
+##resources
 
-###local/
+####local/
 
 * [bash_aliases](/home/pi/.bash_aliases) -- aliases file
 
-###web/
+####web/
 * [Aliases vs Functions](https://youtu.be/GaAfhO1kpUk) -- climagic
 * [climagic](https://m.youtube.com/user/climagic) -- referanced on nixcasts its a valuable source re bash.
 ___
 
-**notes**/
+##notes/
 
-  * **cc**='calendar -A 14' -- *cal overview for next 14 days*
-  * **doc**='cd ~/Documents/'
-  * **env**='cd ~/environments/' 
+the syntax for aliases is as follows (don't forget the single quote marks!):
+
+
+    alias <u>shortcut</u>=<u>'command'</u>
+for example:
+
+    alias ln='ls ~/Documents/notesystem/'
+
+a selection of my bash aliases:
+
+  * **cc**='calendar -A 14' -- *displays cal overview for next 14 days*
+  * **doc**='cd ~/Documents/' -- *cd's into my Documents dir*
+  * **env**='cd ~/environments/' -- *cd's into enviroments dir*
   * **act**='source my_env/bin/activate'-- *activates python env*
-  * **pi**='cd ~/'
-  * **ww**='w3m www.duckduckgo.com'
-  * **sync**='rsync -arv /home/pi/Documents/ /media/pi/8342-B101/Documents/'
-  * **myip**='curl http://ipecho.net/plain; echo'
-  * **ssp**='ssh ****@192.168.1.4'
-  * **ssu**='ssh ****@192.168.1.23'
-  * **con**='cat ~/environments/contacts.csv | column -t -s, | less -S'
-  * **suma**='cat ~/environments/sumafavs.csv | column -t -s, | less -S'
+  * **ww**='w3m www.duckduckgo.com' -- opens w3m browser in search mode
+  * **sync**='rsync -arv /home/pi/Documents/ /media/pi/8342-B101/Documents/' -- backs up my Documents dir to memory stick, using rsync
+  * **myip**='curl http://ipecho.net/plain; echo' -- fetches my isp
+  * **con**='cat ~/environments/contacts.csv | column -t -s, | less -S' -- displays my contacts
   * **re**='nohup retext &' -- *starts an instance of ReText*
+  * **wet**='curl wttr.in' -- *returns the weather forecast for the day*
 
+ You may want to put all your additions into a seperate ~/.bash_aliases file, instead of adding them the your .bashrc.
 
-
+___
 [home](/home/pi/Documents/notesystem/bash-index.md) 
 
