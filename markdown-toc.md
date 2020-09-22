@@ -1,23 +1,17 @@
 Sat 12 Sep 2020 16:22:55 BST
-#mardown/toc
+
+# mardown/toc
 table of content example
-_____
-
-
-resources
-
-###local/
-
-* []() --  
-
-* [](/home/pi/Documents/notesystem/) -- 
-
-###web/
-* [stackoverflow](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents) -- stumbled on this up on stack, enabling movement around amd within your .md docs
 
 ___
 
-**notes**/
+## resources
+
+> [stackoverflow](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents) -- stumbled on this up on stack, enabling movement around amd within your .md docs
+
+___
+
+## notes
 
 Here's a useful method. Should produce clickable references in any MarkDown editor.
 
@@ -60,6 +54,8 @@ Here's a useful method. Should produce clickable references in any MarkDown edit
 
     ## Another paragraph <a name="paragraph2"></a>
     The second paragraph text`
-    
-[home](/home/pi/Documents/notesystem/notes-index.md) 
+
+___
+
+[home](/home/pi/Documents/notesystem/home.md) 
 

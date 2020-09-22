@@ -1,18 +1,32 @@
 18-08-20
 
-# Markdown Cheat Sheet
+# markdown/cheat-Sheet
 
-[markdown](/home/pi/Documents/markdown-index.md)
+___
 
-### working in plain text and applying the markdown syntax
+## resources
 
-[The Markdown Guide](https://www.markdownguide.org)!
+> [markdown](/home/pi/Documents/markdown-index.md)
 
-> This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
+> [the markdown guide](https://www.markdownguide.org)
 
-[mardown/syntax] (https://daringfireball.net/projects/markdown/syntax) -- alt extended syntax guide
+> [mardown syntax](https://daringfireball.net/projects/markdown/syntax) -- alt extended syntax guide
 
-**Basic Syntax**
+___
+
+## notes
+
+> **working in plain text and applying the markdown syntax**
+
+
+
+> This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. 
+
+
+
+
+
+> **Basic Syntax**
 
 > These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
 
@@ -107,3 +121,7 @@ term
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+___
+
+[home](/home/pi/Documents/notesystem/home.md)

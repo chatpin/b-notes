@@ -1,33 +1,20 @@
+Mon 21 Sep 2020 15:12:38 BST
 
-
-#gui/ssh
-
-
+# gui/ssh
 
 _____
 
+## resources
 
-resources
-
-###local/
-
-* []() --  
-
-* [](/home/pi/Documents/) -- 
-
-###web/
-* [link](https://lite.duckduckgo.com/lite/?t=lightning&q=run%20Graphical%20x%20windows%20over%20ssh) -- run graphical xwindows over ssh
+> [link](https://lite.duckduckgo.com/lite/?t=lightning&q=run%20Graphical%20x%20windows%20over%20ssh) -- run graphical xwindows over ssh
 
 ___
 
-**notes/**
+## notes
 
 
-further exploration needed on this subject. also how to run graphical applications without installing the desktop (metaphor).
+> something to look into - also how to run graphical applications without installing the desktop (metaphor).
 
+___
 
-
-
-
-
-[home](/home/pi/Documents/bash-index.md) 
+[home](/home/pi/Documents/notesystem/home.md) 

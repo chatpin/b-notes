@@ -1,31 +1,20 @@
 Fri 04 Sep 2020 17:26:47 BST
-#mac/browser
+
+# mac/browser
 
 _____
 
 
-resources
+## resources
 
-###local/
 
-* []() --  
+> [browser](https://www.omnigroup.com/download/latest/OmniWeb) -- browser for an older mac
+	
+___
 
-* [](/home/pi/Documents/) -- 
-
-###web/
-* []() --
-[bowser](https://www.omnigroup.com/download/latest/OmniWeb) -- browser for an older mac
+## notes
 
 ___
 
-**notes**/
-
-
-
-
-
-
-
-
-[home](/home/pi/Documents/notes-index.md) 
+[home](/home/pi/Documents/notesystem/home.md) 
 

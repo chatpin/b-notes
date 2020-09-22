@@ -1,30 +1,24 @@
 Sun 30 Aug 2020 13:58:31 BST
-#bash/magic
+
+# bash/magic
 
 _____
 
 
-resources
+## resources
 
-###local/
+> [climagic](https://www.youtube.com/user/climagic) -- youtube
 
-* []() --  
+> [climagic](http://climagic.org/) -- website
 
-* [](/home/pi/Documents/) -- 
+> [bash-index](/home/pi/Documents/notesystem/bash-index.md)
 
-###web/
-* [climagic](https://www.youtube.com/user/climagic) -- youtube
-* [climagic](http://climagic.org/) -- website
 ___
 
-**notes**/
+## notes
 
+> [climagic](https://www.youtube.com/watch?v=GaAfhO1kpUk) covers things like the differences between the alias command and creating a function and when you should use each of them.
+___
 
-
-
-
-
-
-
-[home](/home/pi/Documents/bash-index.md) 
+[home](/home/pi/Documents/notesystem/home.md) 
 

@@ -1,30 +1,26 @@
 Thu 03 Sep 2020 10:55:46 BST
+
 #irc/webchat
 
 _____
 
 
-resources
+## resources
 
-###local/
 
-* []() --  
+> [weechat-irc chat client](https://www.youtube.com/watch?v=SEAne0vihac)
 
-* [](/home/pi/Documents/) -- 
+> [web-irc](https://kiwiirc.com/) -- kiwi irc, can access irc online via this link.  
 
-###web/
-* [weechat-irc chat client](https://www.youtube.com/watch?v=SEAne0vihac) -- 
-* [web-irc](https://kiwiirc.com/) -- kiwi irc, can access irc online via this link.  
+
 ___
 
-**notes**/
+## notes
 
-ttg@gm.c-npr60-irc.........
-basic syntax = /join #bash 
+> uses a basic syntax = /join #bash 
 
+___
 
+[home](/home/pi/Documents/notesystem/home.md) 
 
-
-
-[home](/home/pi/Documents/ -index.md) 
 

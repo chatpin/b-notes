@@ -1,12 +1,12 @@
 Sat 05 Sep 2020 10:33:02 BST
 
-#misc/index
+# misc/index
 
 random topics master index file
 _____
 
 
-resources
+##  resources
 
 ###local/
   * [git-bare](/home/pi/Documents/notesystem/git-bare.md) -- a bare git repository 
@@ -22,7 +22,7 @@ resources
 
 ___
 
-**notes**/
+## notes/
 
 
 

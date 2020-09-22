@@ -1,6 +1,6 @@
 
 
-#bash/index
+# bash/index
 _____
 
 
@@ -22,6 +22,8 @@ _____
   * [sed-question](/home/pi/Documents/notesystem/sed-question.md)
 ___
 
-**notes/**
+## notes
+
+___
 
 [home](/home/pi/Documents/notesystem/home.md) 

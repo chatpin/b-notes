@@ -1,30 +1,19 @@
 Thu 03 Sep 2020 14:36:39 BST
-#bash/scripting-cheatsheet
+
+# bash/scripting-cheatsheet
 
 _____
 
+## resources
 
-resources
+> [cheatsheet](https://devhints.io/bash)
 
-###local/
+> [bash-index](/home/pi/Documents/notesystem/bash-index.md)
+___
 
-* []() --  
-
-* [](/home/pi/Documents/) -- 
-
-###web/
-* [cheatsheet](https://devhints.io/bash) --
+## notes
 
 ___
 
-**notes**/
-
-
-
-
-
-
-
-
-[home](/home/pi/Documents/bash-index.md) 
+[home](/home/pi/Documents/notesystem/home.md) 
 

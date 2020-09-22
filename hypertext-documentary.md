@@ -1,33 +1,29 @@
 Tue 25 Aug 21:08:51 BST 2020
 
-#hypertext/documentary
+# hypertext/documentary
 
-Hypertext: an Educational Experiment in English and Computer Science at Brown University** by [Andries van Dam](https://en.wikipedia.org/wiki/Hypertext) 
+Hypertext: an Educational Experiment in English and Computer Science at Brown University
 
 _____
 
 
-resources
+## resources
 
-###local/
 
-* []() --  
+> [hypertext](/home/pi/Documents/notesystem/hypertext.md)
 
-* [](/home/pi/Documents/) -- 
+> [hypertext, Busa and Joyce](/home/pi/Documents/notesystem/hypertext-joyce.md)
 
-###web/
-* []() --
+> [hypertext](https://archive.org/details/AndyVanDamHypertextFilm) -- a documentary film from 1976 by [Andy van Dam](https://en.wikipedia.org/wiki/Hypertext)
+
 
 ___
 
-**notes/**
-
-  * [hypertext documentary](https://archive.org/details/AndyVanDamHypertextFilm) a documentary film from 1976 made by [Andries "Andy" van Dam]().
-
-
+## notes
 
 > The Hypertext system used in the film is called [FRESS](https://en.wikipedia.org/wiki/File_Retrieval_and_Editing_System) and was developed by Andy van Dam, Carol Chomsky, Richard Harrington, and others based on the hypertext idea developed by [Theodor "Ted" Nelson](/home/pi/Documents/hypertext.md).
 
+___
 
-[home](/home/pi/Documents/notes-index.md) 
+[home](/home/pi/Documents/notesystem/home.md) 
 
