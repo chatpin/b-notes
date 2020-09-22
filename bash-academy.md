@@ -1,21 +1,22 @@
 Mon 31 Aug 2020 06:55:23 BST
-#bash/academy
+
+# bash/academy
 
 _____
 
 
-## resources/
+## resources
 
 
-* [bash academy](https://guide.bash.academy/commands/)
+> [bash academy](https://guide.bash.academy/commands/)
 
-* [writing shell scripts](http://www.linuxcommand.org/lc3_writing_shell_scripts.php#contents)
-
-___
-
-## notes/
+> [writing shell scripts](http://www.linuxcommand.org/lc3_writing_shell_scripts.php#contents)
 
 ___
 
-[home](/home/pi/Documents/bash-index.md) 
+## notes
+
+___
+
+[home](./home.md) 
 
