@@ -17,5 +17,5 @@ ___
 
 ___
 
-[home](/home/pi/Documents/bash-index.md) 
+[home](./home.md) 
 

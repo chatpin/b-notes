@@ -1,20 +1,21 @@
+Tue 22 Sep 2020 22:48:03 BST
+
 # sed/index 
 
-
-
 ___
-###sed/
 
+## resources
 
+> [sed](./sed.md)
 
+> [sed-example](./sed-eg.md)
 
-
-  * [sed](/media/pi/8342-B101/Documents/notesystem/sed.md)
-  * [seg-eg](/home/pi/Documents/notesystem/sed-eg.md)
-  * [seg-question](/home/pi/Documents/notesystem/sed-question.md)
+> [sed-question](./sed-question.md)
 
 ___
 
-**notes**/
+## notes
 
-[home](/home/pi/Documents/notesystem/bash-index.md)
+___
+
+[home](./home.md)

@@ -4,12 +4,11 @@ Tue 01 Sep 2020 22:34:30 BST
 
 _____
 
-
 ## resources
 
-> [bash-academy](/home/pi/Documents/notesystem/bash-academy.md)
+> [bash-academy](./bash-academy.md)
 
-> [bash-scripting-cheat](/home/pi/Documents/notesystem/bash-scripting-cheat.md)
+> [bash-scripting-cheat](./bash-scripting-cheat.md)
 ___
 
 
@@ -24,5 +23,5 @@ ___
 
 ___
 
-[home](/home/pi/Documents/notesystem/home.md) 
+[home](./home.md) 
 

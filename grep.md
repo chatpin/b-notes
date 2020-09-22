@@ -7,18 +7,19 @@ ___
 
 ## resources
 
-> [grep](/home/pi/Documents/notesystem/grep-index.md)
+> [grep](./grep-index.md)
 
-> [regex](/home/pi/Documents/notesystem/regex.md)
+> [regex](./regex.md)
 
-> [sed](/home/pi/Documents/notesystem/sed-index.md)
-____
+> [sed](./sed-index.md)
+
+___
 
 ## notes
 
 > grep -Rinw ~/ -e 'string_of_words'
 
-> [grep](https://en.wikipedia.org/wiki/Grep) (command) -Rinw ([flags/switches](/home/pi/Documents/notesystem/grep-eg.md))  ~/ (directory)  -e (specifies the [string/pattern](https://en.wikipedia.org/wiki/String-searching_algorithm) to be searched) 'string_of_words'  (list all files containing a line with the text 'string_of_words')
+> [grep](https://en.wikipedia.org/wiki/Grep) (command) -Rinw ([flags/switches](./grep-eg.md))  ~/ (directory)  -e (specifies the [string/pattern](https://en.wikipedia.org/wiki/String-searching_algorithm) to be searched) 'string_of_words'  (list all files containing a line with the text 'string_of_words')
 
 > Its name comes from the [ed](https://en.wikipedia.org/wiki/Ed_(text_editor)) command g/re/p (globally search for a regular expression and print matching lines), which has the same effect
 
@@ -36,4 +37,4 @@ ___
 
 ___
 
-[home](/home/pi/Documents/notesystem/home.md)
+[home](./home.md)

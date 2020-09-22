@@ -8,12 +8,12 @@ _____
 
 > [cheatsheet](https://devhints.io/bash)
 
-> [bash-index](/home/pi/Documents/notesystem/bash-index.md)
+> [bash-index](./bash-index.md)
 ___
 
 ## notes
 
 ___
 
-[home](/home/pi/Documents/notesystem/home.md) 
+[home](./home.md) 
 

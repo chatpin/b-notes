@@ -11,7 +11,7 @@ _____
 
 > [climagic](http://climagic.org/) -- website
 
-> [bash-index](/home/pi/Documents/notesystem/bash-index.md)
+> [bash-index](./bash-index.md)
 
 ___
 
@@ -20,5 +20,5 @@ ___
 > [climagic](https://www.youtube.com/watch?v=GaAfhO1kpUk) covers things like the differences between the alias command and creating a function and when you should use each of them.
 ___
 
-[home](/home/pi/Documents/notesystem/home.md) 
+[home](./home.md) 
 

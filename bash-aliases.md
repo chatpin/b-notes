@@ -5,16 +5,16 @@ Sun 30 Aug 2020 12:02:18 BST
 _____
 
 
-## resources/
+## resources
 
-> [bash_aliases](/home/pi/.bash_aliases) -- aliases file
+> [bash_aliases](~/.bash_aliases) -- aliases file
 
 > [Aliases vs Functions](https://youtu.be/GaAfhO1kpUk) -- climagic
 
 > [climagic](https://m.youtube.com/user/climagic) -- referanced on nixcasts its a valuable source re bash.
 ___
 
-## notes/
+## notes
 
 > the syntax for aliases is as follows (don't forget the single quote marks!):
 
@@ -53,5 +53,5 @@ ___
 
 ___
 
-[home](/home/pi/Documents/notesystem/bash-index.md) 
+[home](./home.md) 
 

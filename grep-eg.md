@@ -8,7 +8,7 @@ ___
 
 ## resources
 
-> [grep](/home/pi/Documents/notesystem/grep-index.md)
+> [grep](./grep-index.md)
 
 > [Learn Grep Command in Unix/Linux with Simple Examples](https://www.linuxteacher.com/grep-command-in-unix-linux-with-examples/)
 
@@ -44,4 +44,4 @@ ___
 
 ___
 
-[home](/home/pi/Documents/notesystem/home.md)
+[home](./home.md)

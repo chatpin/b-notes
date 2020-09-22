@@ -6,7 +6,7 @@ ___
 
 ## rources
 
-> [bash-regex](/home/pi/Documents/notesystem/bash-reg-expressions.md)
+> [bash-regex](./bash-reg-expressions.md)
 
 > [An Introduction to Regular Expressions](https://www.linux.com/topic/desktop/introduction-regular-expressions-new-linux-users/) -- linux.com
 
@@ -22,8 +22,8 @@ ___
 
 
 
-> "regex, [grep](/home/pi/Documents/notesystem/grep.md), [sed](/home/pi/Documents/notesystem/sed-index.md), etc are a set of tools which can, for example be employed to search through or for files and folders. However, their value can best be seen when they are applied in conjunction with specific commands."
+> "regex, [grep](./grep.md), [sed](./sed-index.md), etc are a set of tools which can, for example be employed to search through or for files and folders. However, their value can best be seen when they are applied in conjunction with specific commands."
 
 ___
 
-[home](/home/pi/Documents/notesystem/home.md)
+[home](./home.md)

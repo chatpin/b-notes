@@ -8,7 +8,7 @@ _____
 
 > [pi3rsync](/media/pi/8342-B101/pi/calstuff3)
 
-> [calendar](/home/pi/.calendar/) -- files to edit are **here** 
+> [calendar](~/.calendar/) -- files to edit are **here** 
 
 ___
 
@@ -26,4 +26,4 @@ ___
 
 ___
 
-[home](/home/pi/Documents/notesystem/home.md) 
+[home](./home.md) 

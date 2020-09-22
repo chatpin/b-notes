@@ -1,25 +1,25 @@
 Tue 25 Aug 17:00:18 BST 2020
 
-#main/index
+# main/index
 
 ___
 
-> [bash](/home/pi/Documents/notesystem/bash-index.md)
+> [bash](./bash-index.md)
 
-> [markdown](/home/pi/Documents/notesystem/hypertext.md)
+> [markdown](./hypertext.md)
 
-> [misc](/home/pi/Documents/notesystem/misc-index.md)
+> [misc](./misc-index.md)
 
-> [notes](/home/pi/Documents/notesystem/notes-index.md)
+> [notes](./notes-index.md)
 
-> [sed](/home/pi/Documents/notesystem/sed-index.md)
+> [sed](./sed-index.md)
 
-> [vim](/home/pi/Documents/notesystem/vim-index.md)
+> [vim](./vim-index.md)
 
-> [zettelkasten](/home/pi/Documents/notesystem/zettelkasten-index.md)
+> [zettelkasten](./zettelkasten-index.md)
 
 ___
 
 ## notes
 
-___
+__
