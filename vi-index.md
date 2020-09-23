@@ -1,23 +1,41 @@
-#vim/index 
+Wed 23 Sep 2020 07:37:39 BST
+
+# vim/index 
 
 ___
 
-  * [learn vimscript](/home/pi/Documents/notesystem/vi-learn.md)
-  * [vim autocomplete](/home/pi/Documents/notesystem/vi-autocomplete.md)
-  * [vim buffers](/home/pi/Documents/notesystem/vi-buffers.md)
-  * [vim commandline](/home/pi/Documents/notesystem/vi-cmd-line.md)
-  * [vim commands](/home/pi/Documents/notesystem/vi-cmds.md)
-  * [vim search](/home/pi/Documents/notesystem/vi-find.md)
-  * [vim help](/home/pi/Documents/notesystem/vi-help.md)
-  * [vim notes](/home/pi/Documents/notesystem/vimnotes.md)
-  * [vim netrw](/home/pi/Documents/notesystem/vi-netrw.md)
-  * [vim runtime](/home/pi/Documents/notesystem/vi-runtime-dir.md)
-  * [vim skeletons](/home/pi/Documents/notesystem/vim-skeleton.md)
-  * [vim snippets](/home/pi/Documents/notesystem/vi-snippets.md)
-  * [vim the vimrc](/home/pi/Documents/notesystem/vi-vimrc.md)
+> [vim autocomplete](./vi-autocomplete.md)
+
+> [vim buffers](./vi-buffers.md)
+
+> [vim commandline](./vi-cmd-line.md)
+
+> [vim commands](./vi-cmds.md)
+
+> [vim find](./vi-find.md)
+
+> [vim fold](./vi-fold.md)
+
+> [vim help](./vi-help.md)
+
+> [vim keybindings](./vi-keybindings.md)
+
+> [vim learn vim-script](./vi-learn.md)
+
+> [vim netrw](./vi-netrw.md)
+
+> [vim runtime](./vi-runtime-dir.md)
+
+> [vim skeletons](./vim-skeleton.md)
+
+> [vim snippets](./vi-snippets.md)
+
+> [vim tags](./vi-tags.md)
+
+> [vim the vimrc](./vi-vimrc.md)
 
 
 
 ____
 
-[home](/home/pi/Documents/notesystem/home.md) 
+[home](./home.md) 

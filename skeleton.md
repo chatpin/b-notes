@@ -4,26 +4,13 @@
 _____
 
 
-resources
+## resources
 
-###local/
-
-* []() --  
-
-* [](/home/pi/Documents/notesystem/) -- 
-
-###web/
-* []() --
 
 ___
 
-**notes**/
+## notes
 
+___
 
-
-
-
-
-
-
-[home](/home/pi/Documents/notesystem/ -index.md) 
+[home](./home.md) 

@@ -5,9 +5,9 @@ Tue 22 Sep 2020 20:51:37 BST
 _____
 
 
-> [aliases]./bash-aliases.md)
+> [aliases](./bash-aliases.md)
 
-> [bash-academy](./bash-academy.md) -- book and web resource
+> [bash-academy](./bash-academy.md) 
 
 > [bash-scripting](./bash-scripting-cheat.md)
 
@@ -25,7 +25,7 @@ _____
   
 > [regex](./regex.md)
   
-> [reg-expressions](./bash-reg-expressions.md) -- youtube tutorial
+> [reg-expressions](./bash-reg-expressions.md)
   
 > [rsync-eg](./rsync-eg.md)
   

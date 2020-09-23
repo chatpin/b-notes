@@ -1,15 +1,16 @@
 Fri 21 Aug 2020 10:30:02 BST
 
-# vi-learn
+# vi/learn
 
+___
 
-## Learn Vimscript the Hard Way
+## resource
 
+> [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) is a book for users of the Vim editor who want to learn how to customize Vim.
 
+___
 
-[Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) is a book for users of the Vim editor who want to learn how to customize Vim.
-
-
+## notes
 
 > The first covers basic Vim commands that you can use in your ~/.vimrc file to customize Vim quickly and easily.
 
@@ -17,4 +18,9 @@ Fri 21 Aug 2020 10:30:02 BST
 
 > The third walks through the creation of a sample plugin intended for distribution to other Vim users.
 
-The combination of vimscript and [bash](URL) script, employing commands such as [sed](/home/pi/Documents/sed-eg.md), [grep](/home/pi/Documents/grep-eg.md) and [regex](URL),currently looks like the most productive way forward. 
+The combination of vimscript and [bash](URL) script, employing commands such as [sed](./sed-eg.md), [grep](./grep-eg.md) and [regex](./regex.md),currently looks like the most productive way forward. 
+
+___
+
+[home](./home.md)
+

@@ -2,7 +2,7 @@ Wed 02 Sep 2020 11:43:23 BST
 
 # bash/regular-expressions
 
-defining and filtering search pattern
+defining and filtering search patterns
 
 _____
 
