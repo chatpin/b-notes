@@ -10,8 +10,6 @@ ___
 
 > [vim commandline](./vi-cmd-line.md)
 
-> [vim commands](./vi-cmds.md)
-
 > [vim find](./vi-find.md)
 
 > [vim fold](./vi-fold.md)
@@ -26,11 +24,9 @@ ___
 
 > [vim runtime](./vi-runtime-dir.md)
 
-> [vim skeletons](./vim-skeleton.md)
+> [vim skeletons](./vi-skeleton.md)
 
 > [vim snippets](./vi-snippets.md)
-
-> [vim tags](./vi-tags.md)
 
 > [vim the vimrc](./vi-vimrc.md)
 

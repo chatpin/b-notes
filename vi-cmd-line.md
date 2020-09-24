@@ -1,6 +1,6 @@
 Sat 22 Aug 2020 14:07:57 BST
 
-vi/cmd-line
+# vim/cmd-line
 
 ___
 
@@ -8,9 +8,9 @@ ___
 
 > [vim index](./vi-index.md)
 
-> [vim learn](vi-learn.md)
+> [vim learn](./vi-learn.md)
 
-> [vim help](vi-help.md)
+> [vim help](./vi-help.md)
 
 ___
 

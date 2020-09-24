@@ -1,19 +1,13 @@
 Wed 26 Aug 2020 09:34:11 BST
 
-#retext/
+# retext/
 
 
 simple editor for markdow and reStructuredText
 
--------------------------------  
+___  
 
-resources
-
-###local/
-
-
-
-###web/ 
+## resources
 
   * [retext/wiki](https://github.com/retext-project/retext/wiki) -- all things retext
 
@@ -23,13 +17,11 @@ resources
 
 ___
 
-**notes/**
+## notes
 
-  * stumbled upon the 'fakevim plugin' , this morning. This  has extended retexts useability no end.  
-  * I need to look into the possibilty of further enhancing and [configuring](https://github.com/hluk/FakeVim/blob/master/README.md#example-vimrc) it to work like vim.
-  * opening a new note automatically includes date/time stamped, etc.
+> stumbled upon the 'fakevim plugin', this really extends retexts useability allowing you to [configure](https://github.com/hluk/FakeVim/blob/master/README.md#example-vimrc) it to work like vim.
 
+___
 
-
-[home](/home/pi/Documents/notes-index.md)
+[home](./home.md)
 

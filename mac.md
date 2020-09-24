@@ -8,13 +8,15 @@ _____
 ## resources
 
 
-> [browser](https://www.omnigroup.com/download/latest/OmniWeb) -- browser for an older mac
+> [browser](https://www.omnigroup.com/download/latest/OmniWeb) -- OmniWeb browser 
 	
 ___
 
 ## notes
 
+> this might be useful for anyone running an older mac
+
 ___
 
-[home](/home/pi/Documents/notesystem/home.md) 
+[home](./home.md) 
 

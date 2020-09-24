@@ -6,9 +6,11 @@ ___
 
 ## resources
 
-> [Zettelkasten](https://zettelkasten.de/)
+> [Zettelkasten blog](https://zettelkasten.de/)
 
 > [building a note-taking system with vanilla vim](https://www.edwinwenink.xyz/posts/42-vim_notetaking/)
+
+> [notetaking-tips](./notetaking-tips.md)
 ___
 ## notes
 
@@ -34,7 +36,7 @@ ___
   > It should also be available at all times over a local network (or via a server online). 
 ___
 
-[home](/home/pi/Documents/notesystem/home.md)
+[home](./home.md)
 
 
 

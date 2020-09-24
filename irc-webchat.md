@@ -8,9 +8,9 @@ _____
 ## resources
 
 
-> [weechat-irc chat client](https://www.youtube.com/watch?v=SEAne0vihac)
+> [weechat irc chat client](https://www.youtube.com/watch?v=SEAne0vihac)
 
-> [web-irc](https://kiwiirc.com/) -- kiwi irc, can access irc online via this link.  
+> [web irc](https://kiwiirc.com/) -- kiwi irc, can access irc online via this link.  
 
 
 ___
@@ -21,6 +21,6 @@ ___
 
 ___
 
-[home](/home/pi/Documents/notesystem/home.md) 
+[home](./home.md) 
 
 

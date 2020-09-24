@@ -4,15 +4,22 @@ Tue 25 Aug 11:17:44 BST 2020
 ____
 
 
-  * [zettelkasten](/home/pi/Documents/notesystem/zettelkasten.md)
-  * [zettelkasten-links](/home/pi/Documents/notesystem/zettelkasten-links.md)
-  * [Sönke Ahrens](/home/pi/Documents/notesystem/Sönke Ahrens.md)
-  * [to do's](/home/pi/Documents/notesystem/2do1.md)
+> [zettelkasten](./zettelkasten.md)
 
+> [zettelkasten-links](./zettelkasten-links.md)
+
+> [Sönke Ahrens](./Sönke-Ahrens.md)
+
+> [note taking links](./note-taking-links.md)
+
+> [notetaking-tips](./notetaking-tips.md)
 ____
 
-## notes/
+## notes
 
 
-[home](/home/pi/Documents/notesystem/home.md)
+___
+
+
+[home](./home.md)
 

@@ -3,7 +3,16 @@ Tue 25 Aug 17:18:05 BST 2020
 #bash/sed
 
 ___
+
+## resources
+
+> [sed question](./sed-question.md)
+
+> [bash](./bash-index.md)
+
+> [sed example](./sed-eg.md)
 ___
+
 
 ## notes
 

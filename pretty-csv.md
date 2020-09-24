@@ -1,23 +1,16 @@
 Fri 11 Sep 2020 13:00:15 BST
 
-#csv/pretty
+# csv/pretty
 
 _____
 
 
-resources
+## resources
 
-###local/
-
-* []() --  
-
-* [](/home/pi/Documents/) -- 
-
-###web/
-  * [pretty-csv](https://www.stefaanlippens.net/pretty-csv.html) -- this is what you are looking for!
+> [pretty-csv](https://www.stefaanlippens.net/pretty-csv.html) -- this is what you are looking for!
 ___
 
-**notes**/
+## notes
 
 
 
@@ -25,8 +18,10 @@ ___
 
 
     cat data.csv | column -t -s, | less -S
-    
-[home](/home/pi/Documents/ -index.md) 
+
+___
+
+[home](./home.md)
 
 
 

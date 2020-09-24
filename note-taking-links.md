@@ -1,25 +1,32 @@
 Tue 25 Aug 14:09:44 BST 2020
 
-#note/taking
+# notes/taking
+
 useful links
 ___
 
-  * [zettelkasten-software-reviews][1]
+## resources
 
-  * How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers by [Sönke Ahrens](/home/pi/Documents/notesystem/Sönke Ahrens.md) (Author) 
+> [zettelkasten-software-reviews][1]
 
-  * [Jef Raskin][2]'s book, [The humane interface][3]: new directions for designing interactive systems,
+> How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers by [Sönke Ahrens](/home/pi/Documents/notesystem/Sönke Ahrens.md) (Author) 
 
-  * [gilles castel][4] -- explains his note-taking system
+> [Jef Raskin][2]'s book, [The humane interface][3]: new directions for designing interactive systems,
 
-  * [the-best-note-taking-methods-for-college-students][5] -- as it says!
+> [gilles castel][4] -- explains his note-taking system
 
-  * [knowledge-management-with-zettelkasten-and-ia-writer][6] -- and again!
+> [the-best-note-taking-methods-for-college-students][5]
+
+> [knowledge-management-with-zettelkasten-and-ia-writer][6]
+
+>[notetaking-tips](./notetaking-tips.md)
+___
+
+## notes
 
 ___
-**notes**/
 
-[home](/home/pi/Documents/notesystem/zettelkasten-index.md)
+[home](./zettelkasten-index.md)
 
 [1]: https://zettelkasten.de/posts/baseline-zettelkasten-software-reviews/ 
 [2]: https://en.wikipedia.org/wiki/Jef_Raskin

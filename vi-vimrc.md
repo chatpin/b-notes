@@ -1,25 +1,83 @@
-Thu 20 Aug 2020 15:53:53 BST
+Thu 24 Sep 2020 14:12:33 BST
 
-#vim/vimrc
+# some stuff in my vimrc
 
-/etc/vim/ -- path
 ___
 
+> [vimrc](/etc/vim/vimrc)
 
-resources
+___
 
-###local/
+## all pretty much vanilla
 
-* []() --  
+> runtime! debian.vim
 
-* [](/) -- 
+> **" the below line prevents defaults.vim from being loaded**
 
-###web/
-* []() --
+> let g:skip_defaults_vim = 1
+
+> colo evening
+
+> syntax on
+
+> set background=dark
+
+> **" Vim jumps to the last position when reopening a file**
+
+> au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
+
+> filetype plugin indent on
+
+> let g:netrw_liststyles= 3
 
 
-_____
+> set showcmd		**" Show (partial) command in status line.**
 
-**note**/
+> set showmatch		**" Show matching brackets.**
 
-[home](/home/pi/Documents/vim-index.md)
+> set ignorecase		**" Do case insensitive matching**
+
+> set smartcase		**" Do smart case matching**
+
+> set incsearch		**" Incremental search**
+
+> set autowrite		**" Automatically save before commands like :next and :make**
+
+> set hidden		**" Hide buffers when they are abandoned**
+
+> set mouse=a		**" Enable mouse usage (all modes)**
+
+> set number
+
+> set path+=**
+
+> set wildmenu
+
+> set dictionary=/usr/share/dict/words
+
+> set complete+=k
+
+> set foldmethod=manual	**" enabling vim folds**
+
+" **some keybindings for my snippets**
+
+> nnoremap ,mm :.-1read $HOME/.vim/intro.md<CR>"=strftime("%c")<CR>pjA
+
+> nnoremap ,d "=strftime("%c")<CR>po
+
+> nnoremap ,h :.-1read $HOME/.vim/home.md<CR> 
+
+
+
+> **" Source a global configuration file if available**
+
+> if filereadable("/etc/vim/vimrc.local")
+
+>> source /etc/vim/vimrc.local
+  
+> endif
+
+___
+
+[home](./home.md) 
+

@@ -1,6 +1,6 @@
 Mon 24 Aug 2020 21:08:33 BST
 
-# .md/viewers
+# markdown/viewers
 
 ___
 
@@ -10,9 +10,9 @@ ___
 
 > [nixcasts](https://www.youtube.com/watch?v=nBHBwOns5bE)
 
-> [markdow-misc](/home/pi/Documents/notesystem/markdown-misc.md)
+> [markdow-misc](./markdown-misc.md)
 
-
+> [retext](./retext.md)
 
 ___
 
@@ -20,6 +20,6 @@ ___
 
 ___
 
-[home](/home/pi/Documents/notesystem/home.md)
+[home](./home.md)
 
 

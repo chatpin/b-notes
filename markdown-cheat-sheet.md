@@ -1,4 +1,4 @@
-18-08-20
+Thu 24 Sep 2020 16:16:52 BST
 
 # markdown/cheat-Sheet
 
@@ -6,7 +6,7 @@ ___
 
 ## resources
 
-> [markdown](/home/pi/Documents/markdown-index.md)
+> [markdown](./markdown-index.md)
 
 > [the markdown guide](https://www.markdownguide.org)
 
@@ -124,4 +124,4 @@ term
 
 ___
 
-[home](/home/pi/Documents/notesystem/home.md)
+[home](./home.md)

@@ -57,5 +57,5 @@ Here's a useful method. Should produce clickable references in any MarkDown edit
 
 ___
 
-[home](/home/pi/Documents/notesystem/home.md) 
+[home](./home.md) 
 

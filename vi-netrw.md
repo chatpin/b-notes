@@ -1,12 +1,14 @@
 Wed 23 Sep 2020 14:04:17 BST
 
-vim/netrw
+# vim/netrw
 
 ___
 
 ## resources
 
 > [Vim: you don't need NERDtree or (maybe) netrw](https://shapeshed.com/vim-netrw/)
+
+> [vim index](./vi-index.md)
 
 ___
 

@@ -2,39 +2,37 @@ Tue 25 Aug 10:49:31 BST 2020
 
 # note-taking/tips
 
-
-**some basic useful tips**
-
 _____
 
-resources
+## resources
 
-###local/
+> [Sönke Ahrens](./Sönke Ahrens.md) --  "thinking outside of the brain"
 
-* [Sönke Ahrens](/home/pi/Documents/Sönke Ahrens.md) --  "thinking outside of the brain"
+> [Zettelkasten-index](./zettelkasten-index.md) -- note taking method used in research and study 
 
-* [Zettelkasten-index](/home/pi/Documents/zettelkasten-index.md) -- note taking method used in research and study 
-
-###web/
-* [note-taking-tips](https://blog.getreu.net/projects/tp-note/tp-note--manual.html)--more random not taking tips
+> [Organize your notes](https://blog.getreu.net/projects/tp-note/tp-note--manual.html) -- note taking tips
 
 ___
 
-**notes/**
+## notes
 
-<u>how to build up complex ideas<u>
+> <u>how to build up complex ideas<u>
 
-  * Keep your notes short
-  * key (atomic) ideas
-  * write in your own words
+>> Keep your notes short
 
+>> key (atomic) ideas
 
-<u>they should probably include</u>
-
-  * what have you just learned
-  * what do you already know
-  * (*linking these two key questions*)
+>> write in your own words
 
 
+> <u>they should probably include</u>
 
-[home](/home/pi/Documents/notes-index.md)
+>> what have you just learned
+
+>> what do you already know
+
+>> (*linking these two key questions*)
+
+___
+
+[home](./home.md)

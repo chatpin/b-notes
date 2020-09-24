@@ -6,17 +6,19 @@ ___
 
 ## resources
 
-> [sed](./bash-index.md)
+>[sed](./sed.md)
+
+> [bash](./bash-index.md)
  
-> [https://linuxhint.com/50_sed_command_examples/](https://linuxhint.com/50_sed_command_examples/)
+> [50 sed command examples](https://linuxhint.com/50_sed_command_examples/)
 
 ## notes
 
-> a useful tool for making commandline changes to a file and across multiple files. The site/article above would seem like a good place to start.
+> a tool for making commandline changes to a file and across multiple files. 
 
-> You can do things like replace the last occurrence only of a match on each line! see below
+> You can do things like replace the last occurrence only of a match on each line
 
-> in this example 'Programming' is 's' substituded with 'scripting'
+> here 'Programming' is 's' substituded with 'scripting'
 
     $ sed 's/\(.*\)Programming/\1Scripting/' lang.txt 
 

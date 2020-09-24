@@ -1,30 +1,25 @@
 Thu 03 Sep 2020 15:22:11 BST
-#book/tlcl
+
+# tlcl/book
 
 _____
 
 
-resources
+## resources
 
-###local/
+> [tlcl](https://sourceforge.net/projects/linuxcommand/) -- bob shotts 'the linux commandline'
 
-* []() --  
+> [bash](./bash-index.md)
 
-* [](/home/pi/Documents/) -- 
 
-###web/
-* [tlcl](https://sourceforge.net/projects/linuxcommand/) -- bob shotts the linux commandline
 
 ___
 
-**notes**/
+## notes
 
-link to a pdf version
+> [unix for the beginner](http://unixmages.com/) -- (pdf) book
 
-  * [unixmages](http://unixmages.com/) -- another (fun) resource
+___
 
-
-
-
-[home](/home/pi/Documents/ -index.md) 
+[home](./home.md)
 

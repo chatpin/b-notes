@@ -1,21 +1,40 @@
+Thu 24 Sep 2020 13:02:57 BST
 
-vi-find
 
-Using find within vim can open files and supports tab completion
+# vim-find
 
-			:find path/to/file.md
+___
 
-To open a file in a vertical split use the following. This also supports tab completion.
+# resources
 
-			:vs path/to/file.md
+> [vim help](./vi-help.md)
 
-To open a file in a horizontal split use the following. This also supports tab completion.
+> [vim index](./vi-index.md)
+___
 
-			:sp path/to/file.txt
+## notes
 
-use *[word from file name] as wildcard
+> Using find within vim can open files and supports tab completion
+
+>>:find path/to/file.md
+
+> To open a file in a vertical split use the following. This also supports tab completion.
+
+>> :vs path/to/file.md
+
+> To open a file in a horizontal split use the following. This also supports tab completion.
+
+>> :sp path/to/file.txt
+
+> use *[word from file name] as wildcard
  
-			:find file_name 	
+>> :find file_name 	
 
-tab completion
-			:find file_n		
+> tab completion
+
+>> :find file_n		
+
+___
+
+[home](./home.md) 
+

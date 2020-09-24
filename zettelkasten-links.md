@@ -1,22 +1,28 @@
 Tue 25 Aug 10:16:08 BST 2020
 
-# zettelkasten-links
+# zettelkasten/links
 
-##home
+___
 
-[notes-index](/home/pi/Documents/notes-index.md)
-[zettelkasten](/home/pi/Documents/zettelkasten.md)
-[zettelkasten-index](/home/pi/Documents/zettelkasten-index.md)
-[Sönke Ahrens](/home/pi/Documents/Sönke Ahrens.md)
+## resources
 
+> [zettelkasten](./zettelkasten.md)
 
-<u>see also</u>
+> [zettelkasten-index](./zettelkasten-index.md)
 
-[hypertext](/home/pi/Documents/hypertext.md)
-### web-links
-[Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann) 
-[zittelkasten](https://zettelkasten.de/)
-[niklas-luhmann-archiv](https://niklas-luhmann-archiv.de/)
-[Dr. Sönke Ahrens](https://www.findinggeniuspodcast.com/podcasts/duly-noted-dr-sonke-ahrens-author-how-to-take-smart-notes-finding-efficiency-in-note-taking-to-achieve-more-comprehensive-learning-and-increased-productivity/)
+> [zettelkasten blog](https://zettelkasten.de/)
 
+> [Sönke Ahrens](./Sönke Ahrens.md)
 
+> [Dr. Sönke Ahrens podcast](https://www.findinggeniuspodcast.com/podcasts/duly-noted-dr-sonke-ahrens-author-how-to-take-smart-notes-finding-efficiency-in-note-taking-to-achieve-more-comprehensive-learning-and-increased-productivity/)
+
+> [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann) 
+
+> [niklas-luhmann-archiv](https://niklas-luhmann-archiv.de/)
+
+> [hypertext](./hypertext.md)
+
+> [note taking links](./note-taking-links.md)
+___
+
+[home](./home.md)

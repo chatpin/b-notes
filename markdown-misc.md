@@ -1,13 +1,13 @@
 Mon 24 Aug 2020 21:08:33 BST
 
-# markdown-misc
+# markdown/misc
 
 
 ___
 
 ## resources
 
-> [markdown](/home/pi/Documents/markdown-index.md)
+> [markdown](./markdown-index.md)
 
 > [md-viewers/editors](https://unix.stackexchange.com/questions/4140/markdown-viewer)
 
@@ -21,4 +21,4 @@ ___
 
 ___
 
-[home](/home/pi/Documents/notesystem/home.md) 
+[home](./home.md) 

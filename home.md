@@ -1,25 +1,23 @@
 Tue 25 Aug 17:00:18 BST 2020
 
-# main/index
+# TOC
 
 ___
+
+## <u>main topics</u>
 
 > [bash](./bash-index.md)
 
-> [markdown](./hypertext.md)
+> [markdown](./markdown-index.md)
 
 > [misc](./misc-index.md)
 
-> [notes](./notes-index.md)
-
-> [sed](./sed-index.md)
-
-> [vim](./vim-index.md)
+> [vim](./vi-index.md)
 
 > [zettelkasten](./zettelkasten-index.md)
 
+## <u>index of all notes</u>
+
+> [index](index-file.md)
+
 ___
-
-## notes
-
-__

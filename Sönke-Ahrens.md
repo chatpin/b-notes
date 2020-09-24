@@ -1,15 +1,15 @@
 Tue 25 Aug 11:13:20 BST 2020
 
-# notes/Sönke Ahrens
+# Sönke Ahrens/
 
 author of how to take smart notes
 ___
 
 ## resources
 
-> [zettelkasten](/home/pi/Documents/notesystem/zettelkasten.md)
+> [zettelkasten](./zettelkasten.md)
 
-> [notetaking-tips](/home/pi/Documents/notesystem/notetaking-tips.md)
+> [notetaking-tips](./notetaking-tips.md)
 
 
 >[Dr. Sönke Ahrens](https://www.findinggeniuspodcast.com/podcasts/duly-noted-dr-sonke-ahrens-author-how-to-take-smart-notes-finding-efficiency-in-note-taking-to-achieve-more-comprehensive-learning-and-increased-productivity/)
@@ -36,4 +36,4 @@ ___
 
 ___
 
-[home](/home/pi/Documents/notesystem/home.md)
+[home](./home.md)
