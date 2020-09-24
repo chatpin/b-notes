@@ -1,18 +1,40 @@
 Fri 21 Aug 2020 14:22:25 BST
-mv-files
 
-to move a file from one dir to another
+# mv/command
+
+___
+
+## resources
+
+> [bash](./bash-index.md)
+
+> [index file](./index-file.md)
+
+___
+
+
+## notes
+
+> to move a file from one dir to another
 
 	"$ mv -i [which-file] [DESTINATION] 
 
-bulk move
+> bulk move
 
 	"$ mv -t [DESTINATION] file1 file2 file3 "
 
-to rename a file
+> to rename a file
 
 
 	"$ mv [oldname] [newname]"
 
+> moves the file to another directory and if the same file is already there, generate some random string that is not in the name of some file in the directory and rename the file to this random string:
 
-#mv #move #rename #file
+>> tmp=$(TMPDIR=$(dirname -- "$destination") mktemp -t)
+mv -- "$source" "$tmp"
+echo n | mv -i -- "$tmp" "$destination"
+
+___
+
+[home](./home.md) 
+

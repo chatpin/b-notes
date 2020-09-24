@@ -1,31 +1,20 @@
 Mon 07 Sep 2020 08:02:02 BST
-#bash/shellcheck
+
+# bash/shellcheck
 
 _____
 
+## resources
 
-resources
-
-###local/
-
-* []() --  
-
-* [](/home/pi/Documents/) -- 
-
-###web/
-* [shellcheck](https://www.shellcheck.net/) --
+> [shellcheck](https://www.shellcheck.net/)
 
 ___
 
-**notes**/
+## notes
 
-finds bugs in your shell scripts
+> ShellCheck - A shell script static analysis tool - finds bugs in your shell scripts
 
+___
 
-
-
-
-
-
-[home](/home/pi/Documents/ -index.md) 
+[home](./home.md) 
 
