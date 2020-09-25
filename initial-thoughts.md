@@ -1,17 +1,17 @@
 13-08-20
 
-# notes-taking/system
+# initial-thoughts/notes-taking/system
 
-### note-tacking process/methedology
+### note-taking process/methedology
 ___
 
 ## resources
 
-> [hypertext](/home/pi/Documents/notesystem/hypertext.md)
+> [hypertext](./hypertext.md)
 
-> [markdown-misc](/home/pi/Documents/notesystem/markdown-misc.md)
+> [markdown-misc](./markdown-misc.md)
 
-> [.md viewers](/home/pi/Documents/notesystem/markdown-viewers.md)
+> [.md viewers](./markdown-viewers.md)
 ___
 
 ## notes
@@ -39,4 +39,4 @@ ___
 
 ___
 
-[home](/home/pi/Documents/notesystem/notes-index.md)
+[home](./home.md)

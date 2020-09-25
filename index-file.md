@@ -106,7 +106,7 @@ Sönke-Ahrens.md
 
 string-manipulation.md
 
-tags-master.md
+symlinks.md
 
 template.md
 
