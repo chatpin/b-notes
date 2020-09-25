@@ -1,11 +1,11 @@
 Mon 14 Sep 2020 08:46:29 BST
 
 # b-notes
-<u>simple indexed notes</u>
+**my bucket of notes**
 ___
 
 
-> this is a bucket of notes, each consisting of either some basic command, script snippet or some links. Each note is in an easily readable format and explores some aspect of: bash, vim or note-taking itself. This is a living document at this point and should not be considered anything other than a very basic initial draft.
+> This is a bucket of notes. Each note consisting of either some basic command, script snippet or some links, exploring some aspect of: bash, vim or note-taking. This is a living document at this point and should not be considered anything other than a very basic initial draft.
 
 ___
 
