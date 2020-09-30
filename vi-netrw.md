@@ -1,18 +1,9 @@
 Wed 23 Sep 2020 14:04:17 BST
 
 # vim/netrw
-
 ___
 
-## resources
-
-> [Vim: you don't need NERDtree or (maybe) netrw](https://shapeshed.com/vim-netrw/)
-
-> [vim index](./vi-index.md)
-
-___
-
-## notes
+## note
 
 > Invoking netrw, vim's built in finder, can be achieved in three ways
 
@@ -29,5 +20,10 @@ A preferred view type can be made permanent by setting it in a .vimrc file.
 >> let g:netrw_liststyle = 3
 
 ___
+> [Vim: you don't need NERDtree or (maybe) netrw](https://shapeshed.com/vim-netrw/)
 
-[home](./home.md)
+> [vim index](./vi-index.md)
+
+> [index](./index-file.md)
+
+> [home](./home.md)

@@ -2,17 +2,9 @@ Thu 24 Sep 2020 13:02:57 BST
 
 
 # vim-find
-
 ___
 
-# resources
-
-> [vim help](./vi-help.md)
-
-> [vim index](./vi-index.md)
-___
-
-## notes
+## note
 
 > Using find within vim can open files and supports tab completion
 
@@ -35,6 +27,9 @@ ___
 >> :find file_n		
 
 ___
+> [vim help](./vi-help.md)
 
-[home](./home.md) 
+> [vim index](./vi-index.md)
+
+> [home](./home.md) 
 

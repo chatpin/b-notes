@@ -4,17 +4,7 @@ Sun 30 Aug 2020 12:02:18 BST
 
 _____
 
-
-## resources
-
-> [bash_aliases](~/.bash_aliases) -- aliases file
-
-> [Aliases vs Functions](https://youtu.be/GaAfhO1kpUk) -- climagic
-
-> [climagic](https://m.youtube.com/user/climagic) -- referanced on nixcasts its a valuable source re bash.
-___
-
-## notes
+## note 
 
 > the syntax for aliases is as follows (don't forget the single quote marks!):
 
@@ -24,9 +14,8 @@ ___
 
     alias ln='ls ~/Documents/notesystem/'
 
-___
 
-> <u>a selection of my bash aliases:</u>
+## <u>a selection of my bash aliases:</u>
 
 > **cc='calendar -A 14'** -- *displays cal overview for next 14 days*
 
@@ -49,9 +38,15 @@ ___
 > **wet='curl wttr.in'** -- *returns the weather forecast for the day*
 
 
-> *You may want to put all your additions into a seperate ~/.bash_aliases file, instead of adding them the your .bashrc.
+### <u>footnote</u>
 
-___
+> You may want to put all your additions into a seperate ~/.bash_aliases file, instead of adding them to your .bashrc.
 
-[home](./home.md) 
 
+> [Aliases vs Functions](https://youtu.be/GaAfhO1kpUk) -- climagic
+
+> [index](./index-file.md)
+
+> [home](./home.md) 
+
+> [bash_aliases](~/.bash_aliases) -- aliases file

@@ -4,15 +4,7 @@ Fri 21 Aug 2020 10:44:02 BST
 
 ___
 
-## resources
-
->[sed](./sed.md)
-
-> [bash](./bash-index.md)
- 
-> [50 sed command examples](https://linuxhint.com/50_sed_command_examples/)
-
-## notes
+## note
 
 > a tool for making commandline changes to a file and across multiple files. 
 
@@ -46,6 +38,13 @@ ___
 	$ sed -i -e '/CSE/! s/Count/80/;' dept.txt 
 
 ___
+> [sed](./sed.md)
 
-[home](./home)
+> [bash](./bash-index.md)
+ 
+> [50 sed command examples](https://linuxhint.com/50_sed_command_examples/)
+
+> [index](./index-file.md)
+
+> [home](./home.md)
 

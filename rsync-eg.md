@@ -2,12 +2,7 @@ Sat 22 Aug 2020 13:23:27 BST
 
 # rsync/back-up
 
-____
-
-## resources
-
-> [rsync remote](./rsync-remote.md)
-___
+__
 
 ## notes
 
@@ -27,4 +22,8 @@ ___
 
 ____
 
-[home](./home.md)
+> [rsync remote](./rsync-remote.md)
+
+> [index](./index-file.md)
+
+> [home](./home.md)

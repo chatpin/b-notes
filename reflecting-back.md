@@ -31,6 +31,8 @@ ___
 
 > [markdown-misc](./markdown-misc.md)
 
-> [.md viewers](./markdown-viewers.md)
+> [markdown viewers](./markdown-viewers.md)
+
+> [index](./index-file.md)
 
 > [home](./home.md)

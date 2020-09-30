@@ -2,24 +2,11 @@ Wed 02 Sep 2020 11:43:23 BST
 
 # bash/regular-expressions
 
-defining and filtering search patterns
-
 _____
 
-## resources
+## note
 
-> [Jason Wertz](https://youtu.be/KJG1dETacLI) -- youtube tutorial
-
-> [regex](./regex.md)
-
-> [sed](./sed-index.md)
-
-> [grep](./grep-index.md)
-
-> [bash](./bash-index.md)
-___
-
-## notes
+> #### defining and filtering search patterns
 
 > When working with regular expressions in a shell script the norm is to use grep or sed or some other external command/program. Since version 3 of bash (released in 2004) there is another option: bash’s built-in regular expression comparison operator “=~”.
 
@@ -27,5 +14,17 @@ ___
 
 ___
 
-[home](./home.md) 
+> [index](./index-file.md)
+
+> [regex](./regex.md)
+
+> [sed](./sed-index.md)
+
+> [Jason Wertz](https://youtu.be/KJG1dETacLI) -- youtube tutorial
+
+> [grep](./grep-index.md)
+
+> [bash](./bash-index.md)
+
+> [home](./home.md) 
 

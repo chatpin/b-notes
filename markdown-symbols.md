@@ -1,21 +1,11 @@
-# symbols/tip
+Wed 30 Sep 2020 11:31:43 BST
 
-
-less-than and greater-than symbols
+# marckdown/symbols
 ___
-
-## resources
-
-> [markdown-cheatsheet](/home/pi/Documents/notesystem/markdown-cheat-sheet.md)
-
-> [markdown-index](/home/pi/Documents/notesystem/markdown-index.md)
-
-___
-
-
 ## notes
 
-> (I found this somewhere but can't remember where)
+### less-than and greater-than symbols
+> (I chanced upon this tip somewhere but can't remember where)
 
 > The less-than and greater-than symbols cannot be used by themselves in Markdown without escaping each by putting a `\` character immediately before them. Using `<` instead of `\<` and `>` instead of `\>` might cause the Markdown document to not render properly.
 
@@ -37,4 +27,10 @@ ___
 
 ___
 
-[home](./home.md)
+> [markdown-index](./markdown-index.md)
+
+> [markdown-cheatsheet](./markdown-cheat-sheet.md)
+
+> [index](./index-file.md)
+
+> [home](./home.md)

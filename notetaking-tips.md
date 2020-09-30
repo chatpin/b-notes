@@ -2,19 +2,9 @@ Tue 25 Aug 10:49:31 BST 2020
 
 # note-taking/tips
 
-_____
-
-## resources
-
-> [Sönke Ahrens](./Sönke Ahrens.md) --  "thinking outside of the brain"
-
-> [Zettelkasten-index](./zettelkasten-index.md) -- note taking method used in research and study 
-
-> [Organize your notes](https://blog.getreu.net/projects/tp-note/tp-note--manual.html) -- note taking tips
-
 ___
 
-## notes
+## note
 
 > <u>how to build up complex ideas<u>
 
@@ -35,4 +25,12 @@ ___
 
 ___
 
-[home](./home.md)
+> [Organize your notes](https://blog.getreu.net/projects/tp-note/tp-note--manual.html) -- note taking tips
+
+> [Sönke Ahrens](./Sönke Ahrens.md) --  "thinking outside of the brain"
+
+> [Zettelkasten-index](./zettelkasten-index.md) -- note taking method used in research and study 
+
+> [index](./index-file.md)
+
+> [home](./home.md)

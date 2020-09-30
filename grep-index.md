@@ -1,23 +1,20 @@
 Mon 24 Aug 2020 20:34:03 BST
 
 # grep/index
-
-master index for grep
 ___
 
-## resources
+### main index for grep
 
-> [grep](/home/pi/Documents/grep.md)
+> [grep](./grep.md)
 
-> [grep-eg](/home/pi/Documents/grep-eg.md) 
+> [grep-eg](/.grep-eg.md) 
 
 > [grep-wiki](https://en.wikipedia.org/wiki/Grep)
 
-
 ___
+[index](./index-file.md)
 
-## notes
+[bash index](./bash-index.md) 
 
-___
+> [home](./home.md) 
 
-[home](/home/pi/Documents/bash-index.md) 

@@ -1,19 +1,9 @@
 Fri 21 Aug 2020 14:22:25 BST
 
 # mv/command
-
 ___
 
-## resources
-
-> [bash](./bash-index.md)
-
-> [index file](./index-file.md)
-
-___
-
-
-## notes
+## note
 
 > to move a file from one dir to another
 
@@ -36,5 +26,9 @@ echo n | mv -i -- "$tmp" "$destination"
 
 ___
 
-[home](./home.md) 
+> [index](./index-file.md)
+
+> [bash](./bash-index.md)
+
+> [home](./home.md) 
 

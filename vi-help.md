@@ -1,18 +1,9 @@
 Wed 23 Sep 2020 09:55:02 BST
 
 # vi-help
-
 ___
 
-## resources
-
-> [vim index](vi-index.md)
-
-> [vim autocomplete](vi-autocomplete.md)
-
-___
-
-## notes
+## note
 
 > It is possible to go directly to whatever you want help on by giving an argument to the |:help| command.
 		   
@@ -44,6 +35,9 @@ ___
 
 > whilst in help - to go back one step use Ctrl-T and you can double click to follow a link (L-mouse-click)
 ___
+> [vim index](vi-index.md)
 
-[home](./home.md)
+> [vim autocomplete](vi-autocomplete.md)
+
+> [home](./home.md)
 

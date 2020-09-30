@@ -1,16 +1,9 @@
 Fri 21 Aug 2020 10:30:02 BST
 
 # vi/learn
-
 ___
 
-## resource
-
-> [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) is a book for users of the Vim editor who want to learn how to customize Vim.
-
-___
-
-## notes
+## note
 
 > The first covers basic Vim commands that you can use in your ~/.vimrc file to customize Vim quickly and easily.
 
@@ -22,5 +15,9 @@ The combination of vimscript and [bash](URL) script, employing commands such as 
 
 ___
 
-[home](./home.md)
+> [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) is a book for users of the Vim editor who want to learn how to customize Vim.
+
+> [index](./index-file.md)
+
+> [home](./home.md)
 

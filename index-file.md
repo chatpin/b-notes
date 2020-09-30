@@ -46,8 +46,6 @@ hypertext.md
 
 index-file.md
 
-initial-thoughts.md
-
 irc-webchat.md
 
 LICENSE
@@ -79,6 +77,8 @@ notetaking-tips.md
 pretty-csv.md
 
 README.md
+
+reflecting-back.md
 
 regex.md
 

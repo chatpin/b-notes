@@ -1,22 +1,15 @@
 Sat 05 Sep 2020 10:33:02 BST
 
 # misc/index
-
-alt topics index
 _____
 
-
-## resources
+#### Other topics
 
 > [git vcs](./git-vcs.md) -- a bare git repository 
-
-> [gui ssh](./gui-ssh.md) -- using gui apps over ssh session
 
 > [irc](./irc-webchat.md) -- irc client
 
 > [lynx](./lynx.md) -- lynx browser - history and hypertext 
-
-> [mac browser](./mac.md) -- browser for older macs
 
 > [notetaking tips](./notetaking-tips.md)
 
@@ -32,11 +25,8 @@ _____
 
 > [tlcl](./tlcl.md) -- the linux commandline book
 
-___
 
-## notes
+> [index](./index-file.md)
 
-___
-
-[home](./home.md) 
+> [home](./home.md) 
 

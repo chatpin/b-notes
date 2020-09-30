@@ -1,17 +1,9 @@
 Mon 14 Sep 2020 11:25:09 BST
 
 # vim/key-bindings
-
-_____
-
-## resources
-
-> [vi complete key binding list][1] 
-
-> [avoid the escape key][2]
 ___
 
-## notes
+## note
 
 > a few new favourites:
 
@@ -34,8 +26,13 @@ ___
 >> _	advance n-1 lines
 
 ___
+> [vi complete key binding list][1] 
 
-[home](./vim-index.md)
+> [avoid the escape key][2]
+
+> [index](./index-file.md)
+
+> [home](./vim-index.md)
  
 [1]: https://hea-www.harvard.edu/~fine/Tech/vi.html
 [2]: https://vim.fandom.com/wiki/Avoid_the_escape_key

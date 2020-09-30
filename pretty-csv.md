@@ -2,12 +2,6 @@ Fri 11 Sep 2020 13:00:15 BST
 
 # csv/pretty
 
-_____
-
-
-## resources
-
-> [pretty-csv](https://www.stefaanlippens.net/pretty-csv.html) -- this is what you are looking for!
 ___
 
 ## notes
@@ -21,7 +15,11 @@ ___
 
 ___
 
-[home](./home.md)
+> [pretty-csv](https://www.stefaanlippens.net/pretty-csv.html) -- this is what you are looking for!
+
+> [index](./index-file.md)
+
+> [home](./home.md)
 
 
 

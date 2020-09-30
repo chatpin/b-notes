@@ -1,18 +1,8 @@
 Fri 11 Sep 2020 09:40:50 BST
 
-# calendar/cmd-line
-_____
-
-## resources
-
-
-> [pi3rsync](/media/pi/8342-B101/pi/calstuff3)
-
-> [calendar](~/.calendar/) -- files to edit are **here** 
-
 ___
 
-## notes
+## note
 
 > The calendar file is preprocessed by the system's C preprocessor, allowing the inclusion of shared files such as holidays or meetings. I have a [calendar.fixtures](~/.calendar/calendar.fixtures) file containing the football fixtures for the season,
 
@@ -24,10 +14,15 @@ ___
 
 > ncal -- as above alternative display
 
-> remind -- *need to look into this further
+> remind -- *need to explore this further
 
-> when -- *need to look into this further
+> when -- *need to explore this further
 
-___
 
-[home](./home.md) 
+> [index](./index-file.md)
+
+> [pi3rsync](/media/pi/8342-B101/pi/calstuff3)
+
+> [calendar](~/.calendar/) -- files to edit are **here** 
+
+> [home](./home.md) 

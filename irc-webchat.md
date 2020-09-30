@@ -1,26 +1,17 @@
 Thu 03 Sep 2020 10:55:46 BST
 
 #irc/webchat
-
 _____
+## note
 
-
-## resources
-
+> uses a basic syntax = /join #bash 
 
 > [weechat irc chat client](https://www.youtube.com/watch?v=SEAne0vihac)
 
 > [web irc](https://kiwiirc.com/) -- kiwi irc, can access irc online via this link.  
 
+> [index](./index-file.md)
 
-___
-
-## notes
-
-> uses a basic syntax = /join #bash 
-
-___
-
-[home](./home.md) 
+> [home](./home.md) 
 
 

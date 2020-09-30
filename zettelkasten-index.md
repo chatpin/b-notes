@@ -15,11 +15,7 @@ ____
 > [notetaking-tips](./notetaking-tips.md)
 ____
 
-## notes
+> [index](./index-file.md)
 
-
-___
-
-
-[home](./home.md)
+> [home](./home.md)
 

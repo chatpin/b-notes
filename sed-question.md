@@ -1,17 +1,8 @@
 Fri 21 Aug 2020 17:50:43 BST
 
 # sed/question
-
-___
-
-## resources
-
-> [bash](./bash-index.md)
-
-> [sed example](./sed-eg.md)
-___
-
-## notes
+__
+## note
 
 > ***asked*** on [stackoverflow](https://stackoverflow.com/questions/63526339/how-to-employ-sed-correctly-to-replace-all-the-white-spaces-with-hyphens-in-long)
 
@@ -21,21 +12,20 @@ ___
 
 *output*
 
-
-
     long-long-long-filename.txt
 
 > ***answer***
 
-
-
     for f in *.txt; do mv "$f" "${f//[[:space:]]/-}"; done
-
-
 
 > You have to actually issue a command that changes the filename; you're listing the filenames and then modify strings. It's either mv, like in the comment above, or one of two flavours of the rename command, as in the linked question.
 
 ___
+> [bash](./bash-index.md)
 
-[home](./home)
+> [sed example](./sed-eg.md)
+
+> [index](./index-file.md)
+
+> [home](./home.md)
 

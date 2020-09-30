@@ -1,19 +1,9 @@
 Sat 19 Sep 2020 20:09:15 BST
 
 # symlinks/ln-command
-
-_____
-
-
-## resources
-
-> [index](./index-file.md)
-
-> [bash](./bash-index.md)
-
 ___
 
-## notes
+## note
 
 ln is a command-line utility for creating links between files. By default, the ln command creates hard links. To create a symbolic link, use the -s (--symbolic) option.
 
@@ -28,6 +18,9 @@ ln is a command-line utility for creating links between files. By default, the l
 > attaching symlinks in Thunar: Stand on folder/file you want to make link to (highlighted) Go to Edit (in main menu) and choose Make link.
 
 ___
+> [index](./index-file.md)
 
-[home](./home.md) 
+> [bash](./bash-index.md)
+
+> [home](./home.md) 
 

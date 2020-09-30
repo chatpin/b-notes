@@ -4,16 +4,7 @@ Sat 12 Sep 2020 07:27:19 BST
 
 _____
 
-
-## resources
-
-> [git version control system](https://en.wikipedia.org/wiki/Git)
-
-> [dotfiles, github and bare-repo](/home/pi/Documents/notesystem/dotfiles-git-bare.md)
-___
-
-
-## notes
+## note
 
 > <u>simple git commands</u>
 
@@ -34,8 +25,10 @@ ___
 > [CVS](https://en.wikipedia.org/wiki/Concurrent_Versions_System) 
 
 > [version management with cvs.pdf](http://ftp.gnu.org/non-gnu/cvs/source/feature/1.12.13/cederqvist-1.12.13.pdf)
-___
 
-[home](/home/pi/Documents/notesystem/home.md) 
+> [index](./index-file.md)
 
+> [dotfiles, github and bare-repo](./dotfiles-git-bare.md) 
+
+> [home](./home.md) 
 

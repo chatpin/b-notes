@@ -4,7 +4,7 @@ Thu 24 Sep 2020 14:12:33 BST
 
 ___
 
-> [vimrc](/etc/vim/vimrc)
+> [vimrc](/etc/vim/vimrc) path /etc/vim/vimrc
 
 ___
 
@@ -79,5 +79,7 @@ ___
 
 ___
 
-[home](./home.md) 
+> [index](./index-file.md)
+
+> [home](./home.md) 
 

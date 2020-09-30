@@ -1,30 +1,12 @@
 Thu 24 Sep 2020 16:16:52 BST
 
 # markdown/cheat-Sheet
-
 ___
-
-## resources
-
-> [markdown](./markdown-index.md)
-
-> [the markdown guide](https://www.markdownguide.org)
-
-> [mardown syntax](https://daringfireball.net/projects/markdown/syntax) -- alt extended syntax guide
-
-___
-
 ## notes
 
 > **working in plain text and applying the markdown syntax**
 
-
-
 > This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. 
-
-
-
-
 
 > **Basic Syntax**
 
@@ -124,4 +106,12 @@ term
 
 ___
 
-[home](./home.md)
+> [mardown syntax](https://daringfireball.net/projects/markdown/syntax) -- alt extended syntax guide
+
+> [the markdown guide](https://www.markdownguide.org)
+
+> [markdown](./markdown-index.md)
+
+> [index](./index-file.md)
+
+> [home](./home.md)

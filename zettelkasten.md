@@ -1,18 +1,8 @@
 Tue 25 Aug 14:36:40 BST 2020
 
 # zettelkasten/
-
 ___
-
-## resources
-
-> [Zettelkasten blog](https://zettelkasten.de/)
-
-> [building a note-taking system with vanilla vim](https://www.edwinwenink.xyz/posts/42-vim_notetaking/)
-
-> [notetaking-tips](./notetaking-tips.md)
-___
-## notes
+## note
 
 > #### <u>context</u>
 
@@ -35,8 +25,15 @@ ___
   
   > It should also be available at all times over a local network (or via a server online). 
 ___
+> [Zettelkasten blog](https://zettelkasten.de/)
 
-[home](./home.md)
+> [building a note-taking system with vanilla vim](https://www.edwinwenink.xyz/posts/42-vim_notetaking/)
+
+> [notetaking-tips](./notetaking-tips.md)
+
+> [index](./index-file.md)
+
+> [home](./home.md)
 
 
 
