@@ -1,17 +1,20 @@
 Thu 03 Sep 2020 10:55:46 BST
 
-#irc/webchat
+# irc/webchat
 _____
-## note
+note
 
-> uses a basic syntax = /join #bash 
+## irc web-chat
+___
 
-> [weechat irc chat client](https://www.youtube.com/watch?v=SEAne0vihac)
+The basic syntax = /join #bash (#whatever_your_subject) 
 
-> [web irc](https://kiwiirc.com/) -- kiwi irc, can access irc online via this link.  
+[weechat irc chat client](https://www.youtube.com/watch?v=SEAne0vihac)
+At kiwi irc you can access irc online without an irc client...link [web irc](https://kiwiirc.com/) 
 
-> [index](./index-file.md)
-
-> [home](./home.md) 
+Suckless.org have a number of their own irc client's.
+___
+[index](./index-file.md)
+[home](./home.md) 
 
 
