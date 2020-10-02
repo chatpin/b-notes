@@ -1,7 +1,7 @@
 Wed 30 Sep 2020 21:24:35 BST
 
 # w3m/commandline-web-browser
-_____
+
 
 note
 ## w3m keybindings

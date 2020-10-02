@@ -5,41 +5,39 @@ Tue 22 Sep 2020 20:51:37 BST
 _____
 
 
-> [aliases](./bash-aliases.md)
+[aliases](./bash-aliases.md)
 
-> [bash-academy](./bash-academy.md) 
+[bash-academy](./bash-academy.md) 
 
-> [bash-scripting](./bash-scripting-cheat.md)
+[bash-scripting](./bash-scripting-cheat.md)
 
-> [cal-tools](./cal-tools.md)
+[cal-tools](./cal-tools.md)
 
-> [cli-magic](./cli-magic.md)
+[cli-magic](./cli-magic.md)
 
-> [functions](./bash-functions.md)
+[functions](./bash-functions.md)
 
-> [grep](./grep.md)
+[grep](./grep.md)
 
-> [grep-eg](./grep-eg.md)
+[grep-eg](./grep-eg.md)
   
-> [paths](./bash-path.md)
+[paths](./bash-path.md)
   
-> [regex](./regex.md)
+[regex](./regex.md)
   
-> [reg-expressions](./bash-reg-expressions.md)
+[reg-expressions](./bash-reg-expressions.md)
   
-> [rsync-eg](./rsync-eg.md)
+[rsync-eg](./rsync-eg.md)
   
-> [sed](./sed.md)
+[sed](./sed.md)
   
-> [sed-eg](./sed-eg.md)
+[sed-eg](./sed-eg.md)
   
-> [sed-question](./sed-question.md)
+[sed-question](./sed-question.md)
 
-> [tlcl](./tlcl.md)
-___
+[tlcl](./tlcl.md)
 
-## notes
 
 ___
-
 [home](./home.md) 
+[index](./index-file.md)

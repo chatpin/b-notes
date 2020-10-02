@@ -1,34 +1,28 @@
 Sat 12 Sep 2020 07:27:19 BST
 
 # git/VCS
+note
 
-_____
+## four basic git commands
+___
 
-## note
+git status
 
-> <u>simple git commands</u>
+gie add [file_name] or -u
 
-> git status
+git commit -m "add message/note here"
 
-> git add [file_name] or -u
+git push
 
-> git commit -m "add message/note here"
+**Git** is an open-source version control system.
+There are a number of Git [repository](https://en.wikipedia.org/wiki/Repository_(version_control)) hosting services. The most popular are [GitHub](https://github.com/), SourceForge, [Bitbucket](https://bitbucket.org/) and GitLab.
 
-> git push
+## two alternatives to Git version control system 
 
-> There are many offerings of Git [repositories](https://en.wikipedia.org/wiki/Repository_(version_control)) as a service. The most popular are [GitHub](https://github.com/), SourceForge, [Bitbucket](https://bitbucket.org/) and GitLab.
-
-> <u>Alternative version control systems include</u>
-
-> [Subversion](https://en.wikipedia.org/wiki/Apache_Subversion)
-
-> [CVS](https://en.wikipedia.org/wiki/Concurrent_Versions_System) 
-
-> [version management with cvs.pdf](http://ftp.gnu.org/non-gnu/cvs/source/feature/1.12.13/cederqvist-1.12.13.pdf)
-
-> [index](./index-file.md)
-
-> [dotfiles, github and bare-repo](./dotfiles-git-bare.md) 
-
-> [home](./home.md) 
+[Subversion](https://en.wikipedia.org/wiki/Apache_Subversion) and 
+[CVS](https://en.wikipedia.org/wiki/Concurrent_Versions_System) Here's a link to the [version management with cvs.pdf](http://ftp.gnu.org/non-gnu/cvs/source/feature/1.12.13/cederqvist-1.12.13.pdf)
+___
+[index](./index-file.md)
+[dotfiles, github and bare-repo](./dotfiles-git-bare.md) 
+[home](./home.md) 
 

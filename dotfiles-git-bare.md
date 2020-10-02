@@ -2,43 +2,37 @@ Mon 21 Sep 2020 10:35:23 BST
 
 # git/bare-repo
 
-_____
+note
 
-## note
+## making your own git bare repository
+___
+Make a directory for your new git bare repository (In this example it's called dotfiles it can named whatever).
 
-### <u>making your own git bare repository</u>  
+this is entered in the terminal:
 
-> Make a directory for your new git bare repository (In this example it's called dotfiles it can named whatever).
+> git init --bare $HOME/dotfiles
 
-> this is entered in the terminal
+this alias is added to your .bashrc
 
->> git init --bare $HOME/dotfiles
+> alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME' 
 
-> this alias is added to your .bashrc
+bash
 
->> alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME' 
+> config config --local status.showUntrackedFiles no
 
-> bash
+## Basic usage example
 
->> config config --local status.showUntrackedFiles no
+config replaces the git command
 
-### <u>Basic usage example</u>
+> config add /path/to/file
 
-> <u>*config*****</u> replaces the git command
+> config commit -m "A short message"
 
->> config add /path/to/file
-
->> config commit -m "A short message"
-
->> config push
-
-> [index](./index-file.md)
-
-> [managing dotfiles](https://news.ycombinator.com/item?id=11070797) -- original article up up on 'hacker news'
-
-> [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles)
-
->[Git Bare Repository - A Better Way To Manage Dotfiles](https://youtu.be/tBoLDpTWVOM)
-
-> [home](./home.md) 
+> config push
+___
+[index](./index-file.md)
+[hacker news-managing dotfiles](https://news.ycombinator.com/item?id=11070797) 
+[The best way to store your dotfiles](https://www.atlassian.com/git/tutorials/dotfiles)
+[Git Bare Repository](https://youtu.be/tBoLDpTWVOM)
+[home](./home.md) 
 

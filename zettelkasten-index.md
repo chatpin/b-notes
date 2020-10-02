@@ -3,19 +3,14 @@ Tue 25 Aug 11:17:44 BST 2020
 # zettelkasten/index
 ____
 
+[zettelkasten](./zettelkasten-thinking-and-writing.md)
 
-> [zettelkasten](./zettelkasten.md)
+[Sönke Ahrens](./Sönke-Ahrens.md)
 
-> [zettelkasten-links](./zettelkasten-links.md)
+[notetaking-tips](./notetaking-tips.md)
 
-> [Sönke Ahrens](./Sönke-Ahrens.md)
-
-> [note taking links](./note-taking-links.md)
-
-> [notetaking-tips](./notetaking-tips.md)
+[reflecting-back](./reflecting-back.md)
 ____
-
-> [index](./index-file.md)
-
-> [home](./home.md)
+[index](./index-file.md)
+[home](./home.md)
 
