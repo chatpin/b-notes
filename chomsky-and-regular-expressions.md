@@ -12,7 +12,7 @@ a link to an article which sites [Noam Chomsky](https://www.linux.com/news/explo
 coincidental that a Carol Chomsky was one of the developers mentioned in the [hypertext documentary](https://archive.org/details/AndyVanDamHypertextFilm)?
 
 ___
-[index](./index-file)
+[index](./index-file.md)
 [regex](./bash-reg-expressions.md)
 [home](./home.md) 
 

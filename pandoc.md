@@ -1,8 +1,6 @@
 Wed 30 Sep 2020 20:57:30 BST
 
 # pandoc/document-converter
-_____
-
 note
 ## pandoc commands
 ___

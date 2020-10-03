@@ -4,7 +4,7 @@ Fri 02 Oct 2020 15:37:12 BST
 
 
 note
-## note-taking, humble beginings
+## beginings
 ___
 So where to begin? Probably with my initial motivation
 

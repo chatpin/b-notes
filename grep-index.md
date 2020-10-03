@@ -5,16 +5,14 @@ ___
 
 ### main index for grep
 
-> [grep](./grep.md)
+[grep](./grep.md)
 
-> [grep-eg](/.grep-eg.md) 
+[grep-eg](/.grep-eg.md) 
 
-> [grep-wiki](https://en.wikipedia.org/wiki/Grep)
+[grep-wiki](https://en.wikipedia.org/wiki/Grep)
 
 ___
 [index](./index-file.md)
-
 [bash index](./bash-index.md) 
-
-> [home](./home.md) 
+[home](./home.md) 
 

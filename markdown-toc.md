@@ -1,13 +1,12 @@
 Sat 12 Sep 2020 16:22:55 BST
 
 # mardown/toc
+notes
+## enabling movement around amd within your .md docs
 ___
-## notes
-### table of content example
+Here's a useful method. Should produce clickable references in any MarkDown editor.
 
-> Here's a useful method. Should produce clickable references in any MarkDown editor.
-
-> (code can be viewed in ReText and is available up on [stack](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents))
+(code can be viewed in ReText and is available up on [stack](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents))
 
     # Table of contents
     1. [Introduction](#introduction)
@@ -27,7 +26,7 @@ ___
     ## Another paragraph <a name="paragraph2"></a>
     The second paragraph text`
 
-**Produces**:
+## Produces:
 
 # Table of contents
 1. [Introduction](#introduction)
@@ -49,9 +48,7 @@ ___
 
 ___
 
-> [stackoverflow](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents) -- stumbled on this up on stack, enabling movement around amd within your .md docs
-
-> [index](./index-file.md)
-
-> [home](./home.md) 
+[stackoverflow](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents) 
+[index](./index-file.md)
+[home](./home.md) 
 

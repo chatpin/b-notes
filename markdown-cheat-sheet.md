@@ -1,75 +1,76 @@
 Thu 24 Sep 2020 16:16:52 BST
 
 # markdown/cheat-Sheet
+notes
+## working in plain text and applying the markdown syntax
 ___
-## notes
 
-> **working in plain text and applying the markdown syntax**
+A quick overview of all the Markdown syntax elements. 
 
-> This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. 
+##Basic Syntax
 
-> **Basic Syntax**
+These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
 
-> These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+#### Heading
 
-### Heading
+\# H1
 
-# H1
-## H2
-### H3
+\## H2
 
-### Bold
+\### H3
 
-**bold text**
+#### Bold
 
-### Italic
+\*\*bold text**
 
-*italicized text*
+#### Italic
 
-### Blockquote
+\*italicized text*
 
-> blockquote
+#### Blockquote
 
-### Ordered List
+\> blockquote
 
-1. First item
+#### Ordered List
+
+1. First item  
 2. Second item
 3. Third item
 
-### Unordered List
+#### Unordered List
 
-- First item
-- Second item
-- Third item
+\- First item  
+\- Second item  
+\- Third item  
 
-### Code
+#### Code
 
-`code`
+\`code`
 
-### Horizontal Rule
+#### Horizontal Rule
 
----
+\---
 
-### Link
+#### Link
 
-[title](https://www.example.com)
+\[title](https://www.example.com)
 
-### Image
+#### Image
 
-![alt text](image.jpg)
+\!\[alt text](image.jpg)
 
 ## Extended Syntax
 
 These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
 
-### Table
+#### Table
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+\| Syntax \| Description \|  
+\| ----------- \| ----------- \|  
+\| Header \| Title \|  
+\| Paragraph \| Text \|
 
-### Fenced Code Block
+#### Fenced Code Block
 
 ```
 {
@@ -79,39 +80,34 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 }
 ```
 
-### Footnote
+#### Footnote
 
-Here's a sentence with a footnote. [^1]
+Here's a sentence with a footnote. \[^1]
 
-[^1]: This is the footnote.
+\[^1]: This is the footnote.
 
-### Heading ID
+#### Heading ID
 
-### My Great Heading {#custom-id}
+#### My Great Heading \{#custom-id}
 
-### Definition List
+#### Definition List
 
-term
-: definition
+term  
+\: definition
 
-### Strikethrough
+#### Strikethrough
 
 ~~The world is flat.~~
 
-### Task List
+#### Task List
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
+\- [x] Write the press release  
+\- [ ] Update the website  
+\- [ ] Contact the media  
 ___
 
-> [mardown syntax](https://daringfireball.net/projects/markdown/syntax) -- alt extended syntax guide
-
-> [the markdown guide](https://www.markdownguide.org)
-
-> [markdown](./markdown-index.md)
-
-> [index](./index-file.md)
-
-> [home](./home.md)
+[mardown syntax](https://daringfireball.net/projects/markdown/syntax)
+[the markdown guide](https://www.markdownguide.org)
+[markdown](./markdown-index.md)
+[index](./index-file.md)
+[home](./home.md)

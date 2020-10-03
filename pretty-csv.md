@@ -6,20 +6,16 @@ ___
 
 ## notes
 
-
-
-> displaying csv files correctly in columns from within the commandline using cat and less
+displaying csv files correctly in columns from within the commandline using cat and less
 
 
     cat data.csv | column -t -s, | less -S
 
 ___
 
-> [pretty-csv](https://www.stefaanlippens.net/pretty-csv.html) -- this is what you are looking for!
-
-> [index](./index-file.md)
-
-> [home](./home.md)
+[pretty-csv](https://www.stefaanlippens.net/pretty-csv.html) 
+[index](./index-file.md)
+[home](./home.md)
 
 
 

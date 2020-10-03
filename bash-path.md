@@ -8,7 +8,8 @@ note
 ___
 Add directories to your path with the following command, where directory is the name of the directory you want to add:
 
-export PATH=$PATH:directory
+
+    export PATH=$PATH:directory
 
 Edit your .bash_profile or .profile file (depending on your distribution) to include the above command. That way, it would be done automatically every time you log in.
 ___
