@@ -74,8 +74,8 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
+  "firstName": "Missy",
+  "lastName": "The-Dog",
   "age": 25
 }
 ```
@@ -97,13 +97,13 @@ term
 
 #### Strikethrough
 
-~~The world is flat.~~
+\~~a dog has six legs.~~
 
 #### Task List
 
-\- [x] Write the press release  
-\- [ ] Update the website  
-\- [ ] Contact the media  
+\- [x] get a dog  
+\- [ ] feed the dog
+\- [ ] walk the dog 
 ___
 
 [mardown syntax](https://daringfireball.net/projects/markdown/syntax)
