@@ -7,7 +7,7 @@ ___
 
 A quick overview of all the Markdown syntax elements. 
 
-##Basic Syntax
+## Basic Syntax
 
 These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
 
@@ -72,13 +72,13 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 #### Fenced Code Block
 
-```
+\```
 {
   "firstName": "Missy",
   "lastName": "The-Dog",
   "age": 25
 }
-```
+\```
 
 #### Footnote
 
@@ -101,9 +101,9 @@ term
 
 #### Task List
 
-\- [x] get a dog  
-\- [ ] feed the dog
-\- [ ] walk the dog 
+\- [x] get a dog    
+\- [ ] feed the dog  
+\- [ ] walk the dog   
 ___
 
 [mardown syntax](https://daringfireball.net/projects/markdown/syntax)
