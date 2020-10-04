@@ -72,13 +72,13 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 #### Fenced Code Block
 
-\```
-{
-  "firstName": "Missy",
-  "lastName": "The-Dog",
-  "age": 25
-}
-\```
+\```  
+{  
+  "firstName": "Missy",  
+  "lastName": "The-Dog",  
+  "age": 25  
+}  
+\```  
 
 #### Footnote
 
