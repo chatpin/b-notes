@@ -2,84 +2,78 @@ Thu 24 Sep 2020 14:12:33 BST
 
 # some stuff in my vimrc
 
-___
-
-> [vimrc](/etc/vim/vimrc) path /etc/vim/vimrc
-
-___
+[vimrc](/etc/vim/vimrc) path /etc/vim/vimrc
 
 ## all pretty much vanilla
 
-> runtime! debian.vim
+runtime! debian.vim
 
-> **" the below line prevents defaults.vim from being loaded**
+**" the below line prevents defaults.vim from being loaded**
 
-> let g:skip_defaults_vim = 1
+let g:skip_defaults_vim = 1
 
-> colo evening
+colo evening
 
-> syntax on
+syntax on
 
-> set background=dark
+set background=dark
 
-> **" Vim jumps to the last position when reopening a file**
+**" Vim jumps to the last position when reopening a file**
 
-> au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
+au BufReadPost * if line("'\"") 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 
-> filetype plugin indent on
+filetype plugin indent on
 
-> let g:netrw_liststyles= 3
+let g:netrw_liststyles= 3
 
 
-> set showcmd		**" Show (partial) command in status line.**
+set showcmd		**" Show (partial) command in status line.**
 
-> set showmatch		**" Show matching brackets.**
+set showmatch		**" Show matching brackets.**
 
-> set ignorecase		**" Do case insensitive matching**
+set ignorecase		**" Do case insensitive matching**
 
-> set smartcase		**" Do smart case matching**
+set smartcase		**" Do smart case matching**
 
-> set incsearch		**" Incremental search**
+set incsearch		**" Incremental search**
 
-> set autowrite		**" Automatically save before commands like :next and :make**
+set autowrite		**" Automatically save before commands like :next and :make**
 
-> set hidden		**" Hide buffers when they are abandoned**
+set hidden		**" Hide buffers when they are abandoned**
 
-> set mouse=a		**" Enable mouse usage (all modes)**
+set mouse=a		**" Enable mouse usage (all modes)**
 
-> set number
+set number
 
-> set path+=**
+set path+=**
 
-> set wildmenu
+set wildmenu
 
-> set dictionary=/usr/share/dict/words
+set dictionary=/usr/share/dict/words
 
-> set complete+=k
+set complete+=k
 
-> set foldmethod=manual	**" enabling vim folds**
+set foldmethod=manual	**" enabling vim folds**
 
 " **some keybindings for my snippets**
 
-> nnoremap ,mm :.-1read $HOME/.vim/intro.md<CR>"=strftime("%c")<CR>pjA
+nnoremap ,mm :.-1read $HOME/.vim/intro.md<CR>"=strftime("%c")<CR>pjA
 
-> nnoremap ,d "=strftime("%c")<CR>po
+nnoremap ,d "=strftime("%c")<CR>po
 
-> nnoremap ,h :.-1read $HOME/.vim/home.md<CR> 
+nnoremap ,h :.-1read $HOME/.vim/home.md<CR
 
 
 
-> **" Source a global configuration file if available**
+**" Source a global configuration file if available**
 
-> if filereadable("/etc/vim/vimrc.local")
+if filereadable("/etc/vim/vimrc.local")
 
->> source /etc/vim/vimrc.local
+>source /etc/vim/vimrc.local
   
-> endif
+endif
 
 ___
-
-> [index](./index-file.md)
-
-> [home](./home.md) 
+[index](./index-file.md)
+[home](./home.md) 
 

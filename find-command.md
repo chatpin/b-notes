@@ -14,7 +14,6 @@ note
 | locate file_name        | lists any files containing part of name
 | locate -b '\mydata'     | lists only files containing "mydata" |
 ___
-
 [index](./index-file.md)
 [home](./home.md) 
 

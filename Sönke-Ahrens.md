@@ -1,11 +1,10 @@
 Tue 25 Aug 11:13:20 BST 2020
 
 # Sönke Ahrens/
-___
 note
-## author of how to take smart notes
-___
-### note taking can
+#### author of how to take smart notes
+
+## note taking can
 
 "provide the tools to build up complex ideas"
 

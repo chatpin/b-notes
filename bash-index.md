@@ -2,8 +2,6 @@ Tue 22 Sep 2020 20:51:37 BST
 
 # bash/index
 
-_____
-
 [aliases](./bash-aliases.md)  
 [bash-academy](./bash-academy.md)   
 [bash-scripting](./bash-scripting-cheat.md)  

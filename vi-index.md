@@ -1,7 +1,7 @@
 Wed 23 Sep 2020 07:37:39 BST
 
 # vim/index 
-___
+
 [vim autocomplete](./vi-autocomplete.md)  
 [vim buffers](./vi-buffers.md)  
 [vim commandline](./vi-cmd-line.md)  

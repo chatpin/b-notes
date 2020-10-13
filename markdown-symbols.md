@@ -3,7 +3,6 @@ Wed 30 Sep 2020 11:31:43 BST
 # marckdown/symbols
 notes
 ## less-than and greater-than symbols
-___
 
 I chanced upon this tip [here](https://gist.github.com/garrettheath4/8fd6807f8d7eb2e26e3595993f35fd27#file-symbols-md)
 

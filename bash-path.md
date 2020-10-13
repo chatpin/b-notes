@@ -1,11 +1,9 @@
 Tue 01 Sep 2020 22:34:30 BST
 
 # bash/path
-
 note
-
 ## Adding directories to your path 
-___
+
 Add directories to your path with the following command, where directory is the name of the directory you want to add:
 
 

@@ -1,7 +1,6 @@
 Tue 25 Aug 21:08:51 BST 2020
 
 # hypertext/documentary
-_____
 note
 ## Hypertext: an Educational Experiment in English and Computer Science at Brown University
 

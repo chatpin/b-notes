@@ -3,7 +3,7 @@ Mon 14 Sep 2020 11:25:09 BST
 # vim/key-bindings
 note
 ## a few favourite vim key-bindings:
-___
+
 | command              | description          |
 | -------------------- | -------------------- |
 | Ctrl-c               | escapes insert mode  | 

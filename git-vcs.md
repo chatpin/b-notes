@@ -2,9 +2,7 @@ Sat 12 Sep 2020 07:27:19 BST
 
 # git/VCS
 note
-
 ## four basic git commands
-___
 
 git status
 

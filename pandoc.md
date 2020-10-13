@@ -3,7 +3,6 @@ Wed 30 Sep 2020 20:57:30 BST
 # pandoc/document-converter
 note
 ## pandoc commands
-___
 
 by default, input is interpreted as pandoc: markdown, and output is html.
 
@@ -23,7 +22,6 @@ to create a Word document its .docx
 
 (to create a pdf document requires the texlive pkg on Linux)
 ___
-
 [index](./index-file.md)
 [home](./home.md) 
 

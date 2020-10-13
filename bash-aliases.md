@@ -1,11 +1,9 @@
 Sun 30 Aug 2020 12:02:18 BST
 
 # bash/aliases
-
-
 note 
 ## the syntax for aliases
-___
+
 Syntax for bash aliases is as follows: 
 
 alias shortcut='command'
@@ -15,7 +13,7 @@ for example:
     alias ln='ls ~/Documents/notesystem/'
 
 (don't forget the single quote marks!)
-___
+
 ## a selection of my bash aliases:
 | command                          | description                  |
 | -------------------------------  | ---------------------------- |

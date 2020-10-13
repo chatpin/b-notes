@@ -4,7 +4,7 @@ Tue 25 Aug 20:11:48 BST 2020
 
 notes
 ## dynamic systems of linking and cross-referencing. 
-___
+
 **Roberto Busa and James joyce linked by Thomas Aquinas**
 
 In November 1904 James Joyce made some notebook entries about aesthetics. These notes were speculations about Thomas Aquinas’ ideas of the true, the good and the beautiful, and Joyce later incorporated them in his novel 'A Portrait of the Artist as a Young Man'.

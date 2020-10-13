@@ -1,7 +1,6 @@
 Sat 05 Sep 2020 10:33:02 BST
 
 # misc/index
-_____
 
 [git vcs](./git-vcs.md) -- a bare git repository   
 [irc](./irc-webchat.md) -- irc client  

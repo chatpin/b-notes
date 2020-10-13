@@ -2,7 +2,6 @@ Tue 25 Aug 2020 09:16:41 BST
 
 # markdown/index
 
-___
 
 [cheatsheet](./markdown-cheat-sheet.md)  
 [markdown-misc](./markdown-misc.md)  

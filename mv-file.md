@@ -1,11 +1,8 @@
 Fri 21 Aug 2020 14:22:25 BST
 
 # mv/moving-files
-
 note
-
 ## mv commands 
-___
 
 **moving files from one dir to another:**
 
@@ -33,7 +30,6 @@ moves the file to another directory and if the same file is already there, gener
     echo n | mv -i -- "$tmp" "$destination"
 
 ___
-
 [index](./index-file.md)
 [bash](./bash-index.md)
 [home](./home.md) 

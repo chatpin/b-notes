@@ -1,11 +1,8 @@
 Thu 03 Sep 2020 10:55:46 BST
 
 # irc/webchat
-_____
 note
-
 ## irc web-chat
-___
 
 The basic syntax = /join #bash (#whatever_your_subject) 
 

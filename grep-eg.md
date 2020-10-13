@@ -2,9 +2,8 @@ Fri 21 Aug 2020 11:46:09 BST
 
 # grep/example
 notes
-
 ##To find files containing specific text
-___
+
 ##### grep example
 
 	'$ grep -iRl "your-text-to-find" ./'
@@ -19,6 +18,7 @@ ___
 ./ - the last parameter is the path to the folder containing files you need to search for your text. In this case, it is the current folder with the file mask. You can change it to the full path of the folder.
 
 ### Other useful switches you can use with grep:
+
 | options | result               |
 | ------- | -------------------- |
 | -n      | show the line number |

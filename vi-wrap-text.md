@@ -1,10 +1,7 @@
 Thu 01 Oct 2020 06:49:26 BST
 
 # vim/wrap-long-lines
-___
-
 note
-
 ## format long lines
 ___
 

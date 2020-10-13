@@ -3,7 +3,6 @@ Thu 24 Sep 2020 16:16:52 BST
 # markdown/cheat-Sheet
 notes
 ## working in plain text and applying the markdown syntax
-___
 
 A quick overview of all the Markdown syntax elements. 
 

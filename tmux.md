@@ -1,13 +1,11 @@
 Wed 30 Sep 2020 21:53:30 BST
 
 # tmux/terminal-manager
-___
 note
 ## tmux commands
-___
 
-| command                       | description | 
-| ----------------------------- | ----------- |
+| command                       | description                      | 
+| ----------------------------- | -------------------------------- |
 | tmux ls 		        | lists current available sessions |
 | tmux new -s my_session        | starts a new session (named my_session) |
 | ctrl-b-d 		        | detach from session |
@@ -22,7 +20,6 @@ ___
 | exit			        | closes panes/windows/session |
 
 ___
-
 [index](./index-file.md)
 [home](./home.md) 
 
