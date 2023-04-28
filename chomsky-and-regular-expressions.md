@@ -8,7 +8,7 @@ a link to an article which sites [Noam Chomsky](https://www.linux.com/news/explo
 
 ##### footnote
 
-coincidental that a Carol Chomsky was one of the developers mentioned in the [hypertext documentary](https://archive.org/details/AndyVanDamHypertextFilm)?
+coincidental that a [Carol Chomsky](https://github.com/chatpin/b-notes/blob/main/hypertext-documentary.md#hypertextdocumentary) was one of the developers mentioned in the [hypertext documentary](https://archive.org/details/AndyVanDamHypertextFilm)?
 
 ___
 [index](./index-file.md)
