@@ -9,7 +9,7 @@ Add directories to your path with the following command, where directory is the 
 
     export PATH=$PATH:directory
 
-Edit your .bash_profile or .profile file (depending on your distribution) to include the above command. That way, it would be done automatically every time you log in.
+Edit your .bash_profile or .profile file (depending on your distribution) to include the above command. It's then made  persistent.
 ___
 [index](./index-file.md)
 [bash-scripting-cheat](./bash-scripting-cheat.md)
