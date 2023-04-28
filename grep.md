@@ -1,6 +1,6 @@
 Tue 25 Aug 09:57:52 BST 2020
 
-# grep/
+# grep
 note
 ## find a string of text in a file, or a file itself:
 
