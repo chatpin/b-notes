@@ -1,7 +1,7 @@
 Tue 06 Oct 2020 06:34:37 BST
 
 # find/command
-note
+
 ## useful find commands
 
 | commnds                 | description                      |
