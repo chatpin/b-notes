@@ -1,7 +1,7 @@
 Mon 21 Sep 2020 10:35:23 BST
 
 # git/bare-repo
-note
+
 ## making your own git bare repository
 
 Make a directory for your new git bare repository (In this example it's called dotfiles it can named whatever).
