@@ -1,10 +1,8 @@
 Fri 02 Oct 2020 15:37:12 BST
 
-# reflecting-back/notes-taking
-note
-## beginings
+# reflecting-back/note-taking
 
-So where to begin? Probably with my initial motivation
+So where to begin? Probably with my initial motivation.
 
 It began about a year ago, coinciding with the decision to try to repurpose the old (2005) ppc-mac-mini with an install of FreeBSD. I found taking down notes, usually on scraps of paper, indispensible. I would copy down instructions, lists of simple commands and then anything else I thought might be useful. My notes-taking process at that stage might better be described as 'collecting'. Those initial notes were then eventually sorted and transfered to a (handwritten) notebook. This in turn lead me to explore the subject: practice and methodologies employed in note-taking systems.
 
