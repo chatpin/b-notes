@@ -1,8 +1,6 @@
 Fri 21 Aug 2020 14:22:25 BST
 
 # mv/moving-files
-note
-## mv commands 
 
 **moving files from one dir to another:**
 
