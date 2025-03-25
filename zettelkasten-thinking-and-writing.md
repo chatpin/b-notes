@@ -1,28 +1,24 @@
 Tue 25 Aug 14:36:40 BST 2020
 
-# zettelkasten/thinking-and-writing
-note
-## developing a personal tool for thinking and writing
-___
+Zettelkasten / Thinking and Writing
+Developing a Personal Tool for Thinking and Writing
 
-## context
+Context
+I first came across the Zettelkasten method while considering how to digitize my handwritten notebooks. What immediately stood out was the vibrant discussion around thinking and writing, as well as the numerous shared workflows and solutions from users.
 
-I stumbled upon the '[Zettelkasten](https://zettelkasten.de/)' for the first time whilst exploring ways to transcribe the contents of a (handwritten) notebook into a digital asset. I was immediately struck by the online community around the zettelkasten. There appeared to be a very active ongoing discussion about thinking and writing. Plus many instances of users sharing examples (and solutions) with regards to their work-flow.
+Aims
+To develop a cross-referencing, bidirectional linking, knowledge management, and note-taking system.
 
-## aims
- 
-To developa a cross referencing, bidirectional linking, knowledge managment and note-taking system. 
+Requirements
++ A personal tool for thinking and writing.
 
-## requirements
-A personal tool for thinking and writing.
++ An interconnected web of notes to facilitate idea development.
 
-Create an interconnected web of notes (thought).
++ A simple and intuitive way to navigate between notes.
 
-A simple method for finding and navigating between notes.
-  
-A simple method for searching the contents of notes.
-  
-They should be accessible at all times over a local network or via a server. 
++ An efficient search function for retrieving content.
+
++ Accessibility at all times, whether over a local network or via a server.
 ___
 [Zettelkasten blog](https://zettelkasten.de/)
 [building a note-taking system with vanilla vim](https://www.edwinwenink.xyz/posts/42-vim_notetaking/)
