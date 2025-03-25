@@ -1,7 +1,6 @@
 Fri 11 Sep 2020 13:00:15 BST
 
 # csv/pretty
-notes
 
 displaying csv files correctly in columns from within the commandline using cat and less
 
