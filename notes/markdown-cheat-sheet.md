@@ -12,17 +12,17 @@ These are the elements outlined in John Gruber’s original design document. All
 
 #### Heading
 
-\# H1
+\# # H1
 
-\## H2
+\## ## H2
 
-\### H3
+\### ### H3
 
 #### Bold
 
 \*\*bold text**
 
-#### Italic
+#### *Italic*
 
 \*italicized text*
 
