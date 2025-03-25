@@ -1,7 +1,7 @@
 Wed 30 Sep 2020 20:30:18 BST
 
 # surf/web-browser
-note
+
 ## suckless.org's Surf - some useful keybindings
 
 | command      | description                |
