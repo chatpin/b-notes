@@ -2,8 +2,6 @@ Tue 25 Aug 16:01:55 BST 2020
 
 # hypertext/Ted Nelson 
 
-## Lo and Behold: Reveries of the Connected World
-
 I first came across Ted Nelson in Werner Herzog’s documentary, Lo and Behold: Reveries of the Connected World (2016). What immediately struck me was his analogy of information—as something fluid, like water moving past and through his fingers.
 
 Later, I discovered that Nelson is regarded as one of the pioneers of hypertext and is credited with coining the term in the early 1960s.
