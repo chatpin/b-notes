@@ -26,7 +26,7 @@ for example:
 
 ##### footnote
 
-You may want to put all your additions into a seperate ~/.bash_aliases file, instead of adding them to your .bashrc.
+You can put all your additions into a seperate ~/.bash_aliases file, instead of adding them to your .bashrc.
 ___
 [Aliases vs Functions](https://youtu.be/GaAfhO1kpUk)
 [index](./index-file.md)
