@@ -1,10 +1,8 @@
 Fri 21 Aug 2020 10:44:02 BST
 
-# sed/example
+# sed
 
-
-
-a tool for making commandline changes to a file and across multiple files. 
+A tool for making commandline changes to a file and across multiple files. 
 
 You can do things like replace the last occurrence only of a match on each line
 
