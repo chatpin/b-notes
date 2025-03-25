@@ -1,8 +1,7 @@
 Sun 30 Aug 2020 12:02:18 BST
 
 # bash/aliases
-note 
-## the syntax for aliases
+
 
 Syntax for bash aliases is as follows: 
 
