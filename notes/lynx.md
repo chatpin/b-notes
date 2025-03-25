@@ -1,7 +1,7 @@
 Tue 25 Aug 20:47:36 BST 2020
 
 # Lynx/hypertext
-notes
+
 ## "WorldWideWeb"
 
 In 1989, Tim Berners-Lee, then a scientist at CERN, proposed and later prototyped a new hypertext project in response to a request for a simple, immediate, information-sharing facility, to be used among physicists working at CERN and other academic institutions. He called the project "WorldWideWeb".
