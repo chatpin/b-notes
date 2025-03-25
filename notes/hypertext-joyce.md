@@ -2,7 +2,6 @@ Tue 25 Aug 20:11:48 BST 2020
 
 # hypertext/textual-engagement
 
-notes
 ## dynamic systems of linking and cross-referencing. 
 
 **Roberto Busa and James joyce linked by Thomas Aquinas**
