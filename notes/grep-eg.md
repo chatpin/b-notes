@@ -1,12 +1,11 @@
 Fri 21 Aug 2020 11:46:09 BST
 
 # grep/example
-notes
-##To find files containing specific text
 
-##### grep example
+## To find files containing specific text
 
-	'$ grep -iRl "your-text-to-find" ./'
+
+	`$ grep -iRl "your-text-to-find" ./`
 
 ##### the switches:
 | options | result           |
