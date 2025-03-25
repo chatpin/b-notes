@@ -1,8 +1,6 @@
 Thu 15 Oct 2020 16:33:20 BST
 
 # kill/running processes
-note
-## 
 
 If you are not aware of the PID \(process identifier) of the application simply run the command ps ux 
 
