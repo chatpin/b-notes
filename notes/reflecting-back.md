@@ -1,24 +1,15 @@
 Fri 02 Oct 2020 15:37:12 BST
 
-# reflecting-back/note-taking
+# Reflecting Back: Note-Taking
+Where to begin? Probably with my initial motivation.
 
-So where to begin? Probably with my initial motivation.
+In 2019, I set out to repurpose an old (2005) PPC Mac Mini by installing FreeBSD. As I worked through the process, I found that jotting down notes—often on scraps of paper—became indispensable. I recorded instructions, simple command lists, and anything else that seemed useful. At that stage, my note-taking was more akin to *collecting* rather than organizing. Eventually, I sorted and transferred these notes into a handwritten notebook, which led me to explore note-taking as a structured practice—its methodologies, tools, and potential applications.
 
-It began about a year ago, coinciding with the decision to try to repurpose the old (2005) ppc-mac-mini with an install of FreeBSD. I found taking down notes, usually on scraps of paper, indispensible. I would copy down instructions, lists of simple commands and then anything else I thought might be useful. My notes-taking process at that stage might better be described as 'collecting'. Those initial notes were then eventually sorted and transfered to a (handwritten) notebook. This in turn lead me to explore the subject: practice and methodologies employed in note-taking systems.
+More recently, I’ve begun transcribing the contents of my notebook into a digital archive, making it freely accessible at all times. My goals for this project are:
 
-More recently I have begun the process of transcribing the contents of the notebook into an online digital archive, where it can be made freely available at all times. My aims in undertaking this project are:
- 
-
- * To use it as the means to further investigate the subject of note-taking systems and methodologies.
-
-
-
- * To explore a range of tools to gain a better understanding of their potential. 
-
-
-
- *  To eventually develop a suitable personal system to support my projects, ideas and encourage organised and interconnected thinking. 
-
+- To deepen my understanding of note-taking systems and methodologies.
+- To explore various tools and assess their potential.
+- To develop a personal system that supports my projects, ideas, and fosters organized, interconnected thinking.
 ___
 [hypertext](./hypertext.md)
 [markdown-misc](./markdown-misc.md)
