@@ -1,7 +1,6 @@
 Sat 19 Sep 2020 20:09:15 BST
 
 # symlinks/ln-command
-note
 
 ln is a command-line utility for creating links between files. By default, the ln command creates hard links. To create a symbolic link, use the -s (--symbolic) option.
 
