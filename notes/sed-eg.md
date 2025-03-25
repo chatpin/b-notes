@@ -2,7 +2,7 @@ Fri 21 Aug 2020 10:44:02 BST
 
 # sed/example
 
-note
+
 
 a tool for making commandline changes to a file and across multiple files. 
 
@@ -10,7 +10,7 @@ You can do things like replace the last occurrence only of a match on each line
 
 In ths example 'Programming' is 's' substituded with 'scripting'
 
-    $ sed 's/\(.*\)Programming/\1Scripting/' lang.txt 
+    `$ sed 's/\(.*\)Programming/\1Scripting/' lang.txt` 
 
 Or Replace the last match in a file with new text. see below
 
