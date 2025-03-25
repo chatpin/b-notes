@@ -1,7 +1,7 @@
 Tue 25 Aug 21:08:51 BST 2020
 
 # hypertext/documentary
-note
+
 ## Hypertext: an Educational Experiment in English and Computer Science at Brown University
 
 The Hypertext system used in the film is called [FRESS](https://en.wikipedia.org/wiki/File_Retrieval_and_Editing_System) and was developed by Andy van Dam, Carol Chomsky, Richard Harrington, and others based on the hypertext idea developed by [Theodor "Ted" Nelson](/home/pi/Documents/hypertext.md).
