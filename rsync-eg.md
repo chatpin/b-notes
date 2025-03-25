@@ -1,7 +1,6 @@
 Sat 22 Aug 2020 13:23:27 BST
 
 # rsync/back-up
-notes
 
 **rsync** - fast, versatile, remote (and local) file-copying and back-up tool
 
