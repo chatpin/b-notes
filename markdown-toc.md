@@ -4,7 +4,7 @@ Sat 12 Sep 2020 16:22:55 BST
 notes
 ## enabling movement around amd within your .md docs
 
-Here's a useful method. Should produce clickable references in any MarkDown editor.
+Here's a useful method. Should produce clickable references in any markdown editor.
 
 (code can be viewed in ReText and is available up on [stack](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents))
 
