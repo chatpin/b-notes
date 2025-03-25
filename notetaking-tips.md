@@ -1,8 +1,6 @@
 Tue 25 Aug 10:49:31 BST 2020
 
 # note-taking/tips
-note
-## how to build up complex ideas
 
 Keep your notes short
 
