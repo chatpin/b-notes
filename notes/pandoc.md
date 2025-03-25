@@ -1,8 +1,6 @@
 Wed 30 Sep 2020 20:57:30 BST
 
 # pandoc/document-converter
-note
-## pandoc commands
 
 by default, input is interpreted as pandoc: markdown, and output is html.
 
