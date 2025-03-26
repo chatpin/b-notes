@@ -1,8 +1,6 @@
 Wed 23 Sep 2020 14:04:17 BST
 
-# vim/netrw
-note
-## vim's built in finder
+# vim's built in finder
 Invoking netrw, vim's built in finder, can be achieved in a nuber of ways:
 
 | command   | description                        |
