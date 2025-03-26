@@ -2,7 +2,7 @@ Sun 30 Aug 2020 14:19:49 BST
 
 # working with templates (skeletons) in vim
 
-**skeleton:** or template invoked & dragged into your buffer through a shortcut
+**skeleton** or template invoked & dragged into your buffer through a shortcut
 
 >[sample skeleton](./skeleton.md) 
 ___
