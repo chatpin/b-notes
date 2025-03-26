@@ -1,7 +1,6 @@
 Mon 24 Aug 2020 21:03:47 BST
 
 # thunar/
-note
 
 "Thunar includes a bulk renamer which can be run separately using the command Thunar -B or from within Thunar by selecting two or more files in the main area and pressing F2 or choosing Edit → Rename... from the main menu."
 
