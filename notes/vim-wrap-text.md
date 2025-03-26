@@ -1,8 +1,6 @@
 Thu 01 Oct 2020 06:49:26 BST
 
 # vim/wrap-long-lines
-note
-## format long lines
 ___
 
 In Vim, you may want to format long lines, that is, wrap long lines so the
