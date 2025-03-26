@@ -1,7 +1,7 @@
 Wed 23 Sep 2020 12:04:22 BST
 
 # vim/fold
-note
+
 
 #### when i was looking for a means to be able to link a group of notes, i stumbled upon this. (I seem to recall it was up on stackoverflow)
 
