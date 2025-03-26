@@ -1,7 +1,5 @@
 Wed 23 Sep 2020 14:21:26 BST
 
-# vim/runtime
-note
 
 **the runtime directory**
 
