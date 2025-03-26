@@ -1,8 +1,7 @@
 Sat 22 Aug 2020 14:04:39 BST
 
 # vim/autocomplete
-notes
-#### AUTOCOMPLETE
+
 
 | command         | descrition                                 |
 | --------------- | ------------------------------------------ |
