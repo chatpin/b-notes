@@ -1,7 +1,7 @@
 Wed 23 Sep 2020 08:03:00 BST
 
-#vim/buffers
-note
+# vim/buffers
+
 
 #### when using the 'gf' command it's useful to keep in mind that when the new buffer appears, the previous one(s) remain open in the background.
 
