@@ -1,7 +1,7 @@
 Wed 30 Sep 2020 21:53:30 BST
 
 # tmux/terminal-manager
-note
+
 ## tmux commands
 
 | command                       | description                      | 
