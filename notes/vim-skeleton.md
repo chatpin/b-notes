@@ -1,8 +1,6 @@
 Sun 30 Aug 2020 14:19:49 BST
 
-# vim/skeleton
-notes
-## working with templates (skeletons) in vim
+# working with templates (skeletons) in vim
 
 **skeleton:** or template invoked & dragged into your buffer through a shortcut
 
