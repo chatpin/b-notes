@@ -1,9 +1,8 @@
 Wed 23 Sep 2020 15:36:04 BST
 
-# vim/snippets
-note
+**snippets**
 
-**snippets:** scripts/text invoked & dragged into your document through a shortcut
+scripts/text invoked & dragged into your document through a shortcut
 
 the keybinding goes into your vimrc or .vimrc and the snippet or skeleton in your ~/.vim directory
 
