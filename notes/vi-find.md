@@ -1,6 +1,6 @@
 Thu 24 Sep 2020 13:02:57 BST
 # vim-find
-note
+
 #### Using find within vim can open files and supports tab completion
 
 >:find path/to/file.md
