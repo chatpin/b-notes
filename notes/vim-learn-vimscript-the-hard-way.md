@@ -1,10 +1,9 @@
 Fri 21 Aug 2020 10:30:02 BST
 
 # vim/learn-vimscipt-the-hard-way
-note
-## a book 
+
 ___
-for users of the Vim editor who want to learn how to customize Vim, it's divided roughly into three sections:
+For users of the Vim editor who want to learn how to customize Vim, it's divided roughly into three sections:
 
 The first covers basic Vim commands that you can use in your ~/.vimrc file to customize Vim quickly and easily.
 
