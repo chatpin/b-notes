@@ -1,7 +1,6 @@
 Wed 23 Sep 2020 09:55:02 BST
 
-# vi-help
-note
+# vim-help
 
 It is possible to go directly to whatever you want help on by giving an argument to the |:help| command.
 		   
