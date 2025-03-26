@@ -1,7 +1,6 @@
 Sat 22 Aug 2020 14:07:57 BST
 
 # vim/cmd-line
-note
 
 from within vim using :! provides access to the cmd-line where all the stock commands can be run. for example:
 
